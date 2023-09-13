@@ -1,0 +1,1615 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "XbWIkP2wKtJMFOJXHGtxf0tGiyw",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "3YgIZXWUj0fkyMehZQN2y8rI8js",
+      "id": "ZiP1l7jlIIA",
+      "snippet": {
+        "publishedAt": "2023-09-12T18:31:08Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Apple Event - September 12",
+        "description": "Watch the special Apple Event to learn about iPhone 15, iPhone 15 Pro, Apple Watch Series 9, Apple Watch Ultra 2, and more.\n\nTo watch the event interpreted in American Sign Language (ASL), please click here: https://youtu.be/Xb8LykDM1x0\n\nAudio Descriptions: https://apple.co/3EBlFIz\n\n00:00:00 Introduction\n00:10:14 Apple Watch Series 9\n00:30:32 Apple Watch Ultra 2\n00:36:36 iPhone 15\n00:56:32 iPhone 15 Pro\n\n“Beautiful Day (Thank You for Sunshine)” by Trinix, Rushawn, Jermaine Edwards https://apple.co/beautiful-day\n“Tumbling Dice” by Little Dragon https://apple.co/tumbling-dice\n“Sunsleeper” by Barry Can't Swim https://apple.co/sunsleeper\n“the light” by Deborah's Child https://apple.co/the-light\n“Ya Ya Power” by KingupingU https://apple.co/ya-ya-power\n“Heavy (But Not In Wait) Sam O.B. Remix” by L'Rain https://apple.co/heavy-but-not-in-wait\n“Where's My Iris” by Lana Lubany https://apple.co/wheres-my-iris\n“YOU BROKE MY HEART BUT IMMA FIX IT” by SBTRKT https://apple.co/you-broke-my-heart\n“High Beams” by Tkay Maidza https://apple.co/high-beams\n“2 Wheel Drive\" by Magdelena Bay https://apple.co/2-wheel-drive\n“WOW” by Team Salut, DÜKI TRAN https://apple.co/wow_teamsalut\n“Rush” by Psylla https://apple.co/rush_psylla\n“Hot! (feat. Jadagrace, SWIM & TJOnline)” by grouptherapy. https://apple.co/hot\n“Innocence\" by Innocence Collective https://apple.co/innocence\n“Natural Wonder Beauty Concept” by Natural Wonder Beauty Concept https://apple.co/natural-wonder-beauty-concept\n“Magic In U” by Cub Sport https://apple.co/magic-in-u\n\n#AppleEvent #iPhone15Pro #iPhone15 #AppleWatchUltra2 #AppleWatchSeries9\n\nWelcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Apple’s more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZiP1l7jlIIA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZiP1l7jlIIA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZiP1l7jlIIA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZiP1l7jlIIA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZiP1l7jlIIA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Apple",
+        "tags": [
+          "Apple",
+          "Apple Event",
+          "Apple Keynote",
+          "Apple Special Event",
+          "keynote",
+          "Apple Watch Series 9",
+          "Apple Watch Ultra 2",
+          "iPhone 15 Pro",
+          "iPhone 15"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Apple Event - September 12",
+          "description": "Watch the special Apple Event to learn about iPhone 15, iPhone 15 Pro, Apple Watch Series 9, Apple Watch Ultra 2, and more.\n\nTo watch the event interpreted in American Sign Language (ASL), please click here: https://youtu.be/Xb8LykDM1x0\n\nAudio Descriptions: https://apple.co/3EBlFIz\n\n00:00:00 Introduction\n00:10:14 Apple Watch Series 9\n00:30:32 Apple Watch Ultra 2\n00:36:36 iPhone 15\n00:56:32 iPhone 15 Pro\n\n“Beautiful Day (Thank You for Sunshine)” by Trinix, Rushawn, Jermaine Edwards https://apple.co/beautiful-day\n“Tumbling Dice” by Little Dragon https://apple.co/tumbling-dice\n“Sunsleeper” by Barry Can't Swim https://apple.co/sunsleeper\n“the light” by Deborah's Child https://apple.co/the-light\n“Ya Ya Power” by KingupingU https://apple.co/ya-ya-power\n“Heavy (But Not In Wait) Sam O.B. Remix” by L'Rain https://apple.co/heavy-but-not-in-wait\n“Where's My Iris” by Lana Lubany https://apple.co/wheres-my-iris\n“YOU BROKE MY HEART BUT IMMA FIX IT” by SBTRKT https://apple.co/you-broke-my-heart\n“High Beams” by Tkay Maidza https://apple.co/high-beams\n“2 Wheel Drive\" by Magdelena Bay https://apple.co/2-wheel-drive\n“WOW” by Team Salut, DÜKI TRAN https://apple.co/wow_teamsalut\n“Rush” by Psylla https://apple.co/rush_psylla\n“Hot! (feat. Jadagrace, SWIM & TJOnline)” by grouptherapy. https://apple.co/hot\n“Innocence\" by Innocence Collective https://apple.co/innocence\n“Natural Wonder Beauty Concept” by Natural Wonder Beauty Concept https://apple.co/natural-wonder-beauty-concept\n“Magic In U” by Cub Sport https://apple.co/magic-in-u\n\n#AppleEvent #iPhone15Pro #iPhone15 #AppleWatchUltra2 #AppleWatchSeries9\n\nWelcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Apple’s more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3UiheNSgAqN8WKkIY8POb8zMAM4",
+      "id": "aM7Xh7bQI40",
+      "snippet": {
+        "publishedAt": "2023-09-13T04:06:22Z",
+        "channelId": "UCxAICW_LdkfFYwTqTHHE0vg",
+        "title": "2023 Video Music Awards | POV: We're LIVE Backstage 👀",
+        "description": "Take a peek into the Video Music Awards from exclusive, insider points of view! Don't miss the 2023 VMAs Tuesday 9/12 at 8/7c.\n#MTV #VMAs #poVMA\n\nParamount+ is here! Stream all your favorite shows now on Paramount+. Try it FREE at https://bit.ly/3qyOeOf\n\nSubscribe to MTV: http://goo.gl/NThuhC\n\nMore from MTV:\nOfficial MTV Website: http://www.mtv.com/\nLike MTV: https://www.facebook.com/MTV\nFollow MTV: https://twitter.com/MTV\nMTV Instagram: http://instagram.com/mtv\n\n#MTV is your destination for the hit series WNO, VMA, Jersey Shore, The Challenge, MTV Floribama Shore, Teen Mom and much more!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aM7Xh7bQI40/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aM7Xh7bQI40/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aM7Xh7bQI40/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aM7Xh7bQI40/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aM7Xh7bQI40/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTV",
+        "tags": ["MTV"],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "2023 Video Music Awards | POV: We're LIVE Backstage 👀",
+          "description": "Take a peek into the Video Music Awards from exclusive, insider points of view! Don't miss the 2023 VMAs Tuesday 9/12 at 8/7c.\n#MTV #VMAs #poVMA\n\nParamount+ is here! Stream all your favorite shows now on Paramount+. Try it FREE at https://bit.ly/3qyOeOf\n\nSubscribe to MTV: http://goo.gl/NThuhC\n\nMore from MTV:\nOfficial MTV Website: http://www.mtv.com/\nLike MTV: https://www.facebook.com/MTV\nFollow MTV: https://twitter.com/MTV\nMTV Instagram: http://instagram.com/mtv\n\n#MTV is your destination for the hit series WNO, VMA, Jersey Shore, The Challenge, MTV Floribama Shore, Teen Mom and much more!"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "FoItrMJGap4KXrRbgvwDNyEKJc4",
+      "id": "xqyUdNxWazA",
+      "snippet": {
+        "publishedAt": "2023-09-12T18:34:22Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Introducing iPhone 15 Pro | Apple",
+        "description": "The new iPhone 15 Pro and iPhone 15 Pro Max are ready for action. Built with aerospace-grade titanium for our lightest, most powerful Pro models ever.\n\nThe new Pro camera system pushes the limits of what’s possible on a smartphone, giving photographers the equivalent of seven pro lenses ranging from 13 mm on the Ultra Wide camera to 120 mm on the 5x Telephoto camera on iPhone 15 Pro Max.\n\nFilmmakers can now record video in ProRes 4K at 60 fps directly to an external drive. The addition of a USB-C connector brings superfast USB 3 transfer speeds, along with support for pro formats that massively improve the workflow between shooting and post-production.\n\nThe new design also includes a customizable Action button for quicker access to your favorite feature.*\n\nAnd the A17 Pro chip with a 6-core GPU introduces a whole new level of immersive mobile gaming performance. \n\nIn short, the new titanium iPhone 15 Pro is our most powerful photo-taking, movie-making, game-playing iPhone ever.\n\nLearn more about iPhone 15 Pro and iPhone 15 Pro Max: https://apple.co/3PBuiJq\n\nAudio Descriptions: https://apple.co/44QCI3W\n\n#AppleEvent #iPhone15Pro #iPhone\n\n*Translate action is coming in an update later this year\n\nWelcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Apple’s more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xqyUdNxWazA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xqyUdNxWazA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xqyUdNxWazA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xqyUdNxWazA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xqyUdNxWazA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Apple",
+        "tags": [
+          "iPhone",
+          "iPhone 15 Pro",
+          "iPhone 15 Pro Max",
+          "titanium",
+          "aerospace-grade titanium",
+          "7 pro lenses",
+          "120 mm",
+          "5x Telephoto",
+          "USB-C",
+          "USB 3",
+          "ProRes 4K",
+          "60 fps",
+          "A17 Pro chip",
+          "6-core GPU",
+          "Action button",
+          "Apple Event"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Introducing iPhone 15 Pro | Apple",
+          "description": "The new iPhone 15 Pro and iPhone 15 Pro Max are ready for action. Built with aerospace-grade titanium for our lightest, most powerful Pro models ever.\n\nThe new Pro camera system pushes the limits of what’s possible on a smartphone, giving photographers the equivalent of seven pro lenses ranging from 13 mm on the Ultra Wide camera to 120 mm on the 5x Telephoto camera on iPhone 15 Pro Max.\n\nFilmmakers can now record video in ProRes 4K at 60 fps directly to an external drive. The addition of a USB-C connector brings superfast USB 3 transfer speeds, along with support for pro formats that massively improve the workflow between shooting and post-production.\n\nThe new design also includes a customizable Action button for quicker access to your favorite feature.*\n\nAnd the A17 Pro chip with a 6-core GPU introduces a whole new level of immersive mobile gaming performance. \n\nIn short, the new titanium iPhone 15 Pro is our most powerful photo-taking, movie-making, game-playing iPhone ever.\n\nLearn more about iPhone 15 Pro and iPhone 15 Pro Max: https://apple.co/3PBuiJq\n\nAudio Descriptions: https://apple.co/44QCI3W\n\n#AppleEvent #iPhone15Pro #iPhone\n\n*Translate action is coming in an update later this year\n\nWelcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Apple’s more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8RcJEQo62stu_mJ0irOzU1q29uU",
+      "id": "zAxmn4ihqNg",
+      "snippet": {
+        "publishedAt": "2023-09-13T02:46:46Z",
+        "channelId": "UCxAICW_LdkfFYwTqTHHE0vg",
+        "title": "Shakira - \"Hips Don't Lie\" / \"Objection (Tango)\" / \"Whenever, Wherever\" & More | 2023 VMAs",
+        "description": "Shakira performed \"Hips Don't Lie,\" \"Objection (Tango)\", \"Whenever, Wherever,\" and more in her show-stopping Video Vanguard Performance, presented by Toyota. Check out more from the 2023 VMAs here: http://www.mtv.com/vma\n\nParamount+ is here! Stream all your favorite shows now on Paramount+. Try it FREE at https://bit.ly/3qyOeOf\n\n#VMAs #MTV #Shakira\n\nSubscribe to MTV: http://goo.gl/NThuhC\n\nMore from MTV:\nOfficial MTV Website: http://www.mtv.com/\nLike MTV: https://www.facebook.com/MTV\nFollow MTV: https://twitter.com/MTV\nMTV Instagram: http://instagram.com/mtv\n\n#MTV is your destination for the hit series WNO, VMA, Jersey Shore, The Challenge, MTV Floribama Shore, Teen Mom and much more!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zAxmn4ihqNg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zAxmn4ihqNg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zAxmn4ihqNg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zAxmn4ihqNg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zAxmn4ihqNg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTV",
+        "tags": [
+          "MTV",
+          "2023 VMA",
+          "MTV VMAs",
+          "VMAs",
+          "2023 MTV Video Music Awards",
+          "MTV Video Music Awards",
+          "video music awards 2023",
+          "video music awards performances",
+          "video music awards full show",
+          "vma performance",
+          "video music awards performance",
+          "live performance",
+          "mtv vma live performance",
+          "mtv vma full show",
+          "mtv vma full performance",
+          "cardi b",
+          "megan thee stallion",
+          "doja cat",
+          "lil wayne",
+          "nicki minaj",
+          "peso pluma",
+          "olivia rodrigo",
+          "shakira",
+          "2023 vmas",
+          "shakira vmas",
+          "vmas shakira",
+          "shakira vmas 2023"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Shakira - \"Hips Don't Lie\" / \"Objection (Tango)\" / \"Whenever, Wherever\" & More | 2023 VMAs",
+          "description": "Shakira performed \"Hips Don't Lie,\" \"Objection (Tango)\", \"Whenever, Wherever,\" and more in her show-stopping Video Vanguard Performance, presented by Toyota. Check out more from the 2023 VMAs here: http://www.mtv.com/vma\n\nParamount+ is here! Stream all your favorite shows now on Paramount+. Try it FREE at https://bit.ly/3qyOeOf\n\n#VMAs #MTV #Shakira\n\nSubscribe to MTV: http://goo.gl/NThuhC\n\nMore from MTV:\nOfficial MTV Website: http://www.mtv.com/\nLike MTV: https://www.facebook.com/MTV\nFollow MTV: https://twitter.com/MTV\nMTV Instagram: http://instagram.com/mtv\n\n#MTV is your destination for the hit series WNO, VMA, Jersey Shore, The Challenge, MTV Floribama Shore, Teen Mom and much more!"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "esH0JO2IFeQ-OMhYdQm9RS0ivtA",
+      "id": "-Hu_Q4W8M6g",
+      "snippet": {
+        "publishedAt": "2023-09-13T04:00:12Z",
+        "channelId": "UCenjunBhBhvKjfDAESnoppw",
+        "title": "Rod Wave - Boyz Don’t Cry (Acoustic Video)",
+        "description": "Amazon Music Presents Rod Wave, “Boyz Don’t Cry” Live from Brooklyn, NY\nListen to Rod Wave on Amazon Music: http://amzn.to/Rod_Wave\nListen to Nostalgia: http://amzn.to/RodWaveNostalgia\n#AmazonMusic\n\n'Boyz Don't Cry' - Out Now:\nhttps://rodwave.lnk.to/nostalgia\n\nPre-Order \"Nostalgia\" The Album Now:\nhttps://rodwave.lnk.to/nostalgia\n\nEverything Rod Wave: \nhttps://official-rodwave.com\n\nFollow Rod Wave:\n► Instagram: https://www.instagram.com/rodwave/\n► Twitter: https://twitter.com/rodwave\n► TikTok: https://rodwave.lnk.to/tiktok\n► Facebook: https://www.facebook.com/rodwave\n► Snapchat: https://www.snapchat.com/add/therealrodwave\n► Discord: https://discord.gg/rodwave\n\nListen to Rod Wave:\n► Apple Music: https://rodwave.lnk.to/applemusic\n► YouTube: https://rodwave.lnk.to/youtube\n► Spotify: https://rodwave.lnk.to/spotify\n► SoundCloud: https://rodwave.lnk.to/soundcloud\n► Amazon: https://rodwave.lnk.to/amazonmusic\n► TIDAL: https://rodwave.lnk.to/TIDAL\n\n#Rodwave #BoyzDontCry #Nostalgia",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-Hu_Q4W8M6g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-Hu_Q4W8M6g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-Hu_Q4W8M6g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-Hu_Q4W8M6g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-Hu_Q4W8M6g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "RodWave",
+        "tags": [
+          "rod wave",
+          "hunger games",
+          "hunger games 3",
+          "ptsd",
+          "ghetto gospel",
+          "kevin gates",
+          "soulfly",
+          "soulfly deluxe",
+          "tiktok",
+          "kodak black",
+          "lil durk",
+          "nba youngboy",
+          "fredo bang",
+          "toosii",
+          "yung bleu",
+          "no cap",
+          "heart on ice",
+          "moneybagg yo",
+          "mo3",
+          "time heals",
+          "tombstone",
+          "florida",
+          "st petersburg",
+          "tampa",
+          "jaydayungan"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Rod Wave - Boyz Don’t Cry (Acoustic Video)",
+          "description": "Amazon Music Presents Rod Wave, “Boyz Don’t Cry” Live from Brooklyn, NY\nListen to Rod Wave on Amazon Music: http://amzn.to/Rod_Wave\nListen to Nostalgia: http://amzn.to/RodWaveNostalgia\n#AmazonMusic\n\n'Boyz Don't Cry' - Out Now:\nhttps://rodwave.lnk.to/nostalgia\n\nPre-Order \"Nostalgia\" The Album Now:\nhttps://rodwave.lnk.to/nostalgia\n\nEverything Rod Wave: \nhttps://official-rodwave.com\n\nFollow Rod Wave:\n► Instagram: https://www.instagram.com/rodwave/\n► Twitter: https://twitter.com/rodwave\n► TikTok: https://rodwave.lnk.to/tiktok\n► Facebook: https://www.facebook.com/rodwave\n► Snapchat: https://www.snapchat.com/add/therealrodwave\n► Discord: https://discord.gg/rodwave\n\nListen to Rod Wave:\n► Apple Music: https://rodwave.lnk.to/applemusic\n► YouTube: https://rodwave.lnk.to/youtube\n► Spotify: https://rodwave.lnk.to/spotify\n► SoundCloud: https://rodwave.lnk.to/soundcloud\n► Amazon: https://rodwave.lnk.to/amazonmusic\n► TIDAL: https://rodwave.lnk.to/TIDAL\n\n#Rodwave #BoyzDontCry #Nostalgia"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "fWgHIc0xqZusphaCKhv-Uze0_0Q",
+      "id": "enR58PYHaWw",
+      "snippet": {
+        "publishedAt": "2023-09-13T05:39:41Z",
+        "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+        "title": "iPhone 15/15 Pro Impressions: Not Just USB-C!",
+        "description": "Hands-on with the iPhone 15 and iPhone 15 Pro\n\nThanks to Anker for sponsoring today's video! Charge your iPhone 15 with Anker Nano\nAmazon: https://ankerfast.club/d2ugyK\nAnker.com: https://shop.anker.com/VN8scF\n\nCheck out the Apple iPhone 15 Pro and 15 Pro Max at https://geni.us/LyylS\nCheck out the Apple iPhone 15 and 15 Plus at https://geni.us/eAPd\n\nStay tuned for the WVFRM podcast this week! http://youtube.com/Waveform\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Jordyn Edmonds\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/enR58PYHaWw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/enR58PYHaWw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/enR58PYHaWw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/enR58PYHaWw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/enR58PYHaWw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Marques Brownlee",
+        "tags": [
+          "iPhone 15",
+          "iPhone 15 Pro",
+          "Apple event",
+          "MKBHD",
+          "Wunderlist",
+          "iPhone 15 event",
+          "hands on",
+          "impressions",
+          "first look",
+          "iPhone 15 review",
+          "iPhone 15 preview",
+          "iPhone 15 hands on",
+          "cameras"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "iPhone 15/15 Pro Impressions: Not Just USB-C!",
+          "description": "Hands-on with the iPhone 15 and iPhone 15 Pro\n\nThanks to Anker for sponsoring today's video! Charge your iPhone 15 with Anker Nano\nAmazon: https://ankerfast.club/d2ugyK\nAnker.com: https://shop.anker.com/VN8scF\n\nCheck out the Apple iPhone 15 Pro and 15 Pro Max at https://geni.us/LyylS\nCheck out the Apple iPhone 15 and 15 Plus at https://geni.us/eAPd\n\nStay tuned for the WVFRM podcast this week! http://youtube.com/Waveform\n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: Jordyn Edmonds\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "DlsmCAEjM0g9v4dDdgnZV7VQUYE",
+      "id": "d9JblG0O3Io",
+      "snippet": {
+        "publishedAt": "2023-09-12T18:28:35Z",
+        "channelId": "UCOmcA3f_RrH6b9NmcNa4tdg",
+        "title": "Apple iPhone 15 Event: Everything Revealed in 11 Minutes",
+        "description": "At Apple's Wonderlust event, the company revealed all-new products, including the iPhone 15, iPhone 15 Plus, iPhone 15 Pro, iPhone 15 Pro Max, Apple Watch Series 9 and Apple Watch Ultra 2. See all the products recapped in our 11-minute supercut.\n\nApple's 'Wonderlust' Event Highlights iPhone 15, USB-C, Apple Watch 9: Everything Apple Announced https://cnet.co/45JELYW\n\n0:00 Intro\n0:08 Apple Watch Series 9\n1:26 Apple Watch Double Tap\n2:17 Apple Watch S9 SiP\n2:55 Apple Watch Ultra 2\n4:10 Apple Watch SE\n4:26 Apple Watch Prices and Availability\n4:43 iPhone 15\n5:57 iPhone 15 USB-C\n7:00 iPhone 15 Prices and Availability\n7:13 iPhone 15 Pro Titanium\n10:56 iPhone 15 Pro Prices and Availability\n\nSubscribe to CNET: https://www.youtube.com/user/CNETTV\nNever miss a deal again! See CNET’s browser extension 👉 https://bit.ly/3lO7sOU\nCheck out CNET’s Amazon Storefront: https://www.amazon.com/shop/cnet\nFollow us on TikTok: https://www.tiktok.com/@cnetdotcom\nFollow us on Instagram: https://www.instagram.com/cnet/\nFollow us on Twitter: https://www.twitter.com/cnet\nLike us on Facebook: https://www.facebook.com/cnet\n\n#apple #applewatch #iphone15",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d9JblG0O3Io/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d9JblG0O3Io/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d9JblG0O3Io/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d9JblG0O3Io/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/d9JblG0O3Io/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNET",
+        "tags": ["CNET", "Technology", "tech"],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Apple iPhone 15 Event: Everything Revealed in 11 Minutes",
+          "description": "At Apple's Wonderlust event, the company revealed all-new products, including the iPhone 15, iPhone 15 Plus, iPhone 15 Pro, iPhone 15 Pro Max, Apple Watch Series 9 and Apple Watch Ultra 2. See all the products recapped in our 11-minute supercut.\n\nApple's 'Wonderlust' Event Highlights iPhone 15, USB-C, Apple Watch 9: Everything Apple Announced https://cnet.co/45JELYW\n\n0:00 Intro\n0:08 Apple Watch Series 9\n1:26 Apple Watch Double Tap\n2:17 Apple Watch S9 SiP\n2:55 Apple Watch Ultra 2\n4:10 Apple Watch SE\n4:26 Apple Watch Prices and Availability\n4:43 iPhone 15\n5:57 iPhone 15 USB-C\n7:00 iPhone 15 Prices and Availability\n7:13 iPhone 15 Pro Titanium\n10:56 iPhone 15 Pro Prices and Availability\n\nSubscribe to CNET: https://www.youtube.com/user/CNETTV\nNever miss a deal again! See CNET’s browser extension 👉 https://bit.ly/3lO7sOU\nCheck out CNET’s Amazon Storefront: https://www.amazon.com/shop/cnet\nFollow us on TikTok: https://www.tiktok.com/@cnetdotcom\nFollow us on Instagram: https://www.instagram.com/cnet/\nFollow us on Twitter: https://www.twitter.com/cnet\nLike us on Facebook: https://www.facebook.com/cnet\n\n#apple #applewatch #iphone15"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "WubQZt8SfLhzlEEEOw3x1JaBITs",
+      "id": "E-l38n6b1wA",
+      "snippet": {
+        "publishedAt": "2023-09-13T00:07:55Z",
+        "channelId": "UCxAICW_LdkfFYwTqTHHE0vg",
+        "title": "2023 Video Music Awards LIVE Red Carpet",
+        "description": "Join us for a live look at the 2023 Video Music Awards Red Carpet. Don't miss the 2023 VMAs Tuesday 9/12 at 8/7c.\n#MTV #VMAs #RedCarpet\n\nParamount+ is here! Stream all your favorite shows now on Paramount+. Try it FREE at https://bit.ly/3qyOeOf\n\nSubscribe to MTV: http://goo.gl/NThuhC\n\nMore from MTV:\nOfficial MTV Website: http://www.mtv.com/\nLike MTV: https://www.facebook.com/MTV\nFollow MTV: https://twitter.com/MTV\nMTV Instagram: http://instagram.com/mtv\n\n#MTV is your destination for the hit series WNO, VMA, Jersey Shore, The Challenge, MTV Floribama Shore, Teen Mom and much more!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E-l38n6b1wA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E-l38n6b1wA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E-l38n6b1wA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E-l38n6b1wA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E-l38n6b1wA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTV",
+        "tags": ["MTV"],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "2023 Video Music Awards LIVE Red Carpet",
+          "description": "Join us for a live look at the 2023 Video Music Awards Red Carpet. Don't miss the 2023 VMAs Tuesday 9/12 at 8/7c.\n#MTV #VMAs #RedCarpet\n\nParamount+ is here! Stream all your favorite shows now on Paramount+. Try it FREE at https://bit.ly/3qyOeOf\n\nSubscribe to MTV: http://goo.gl/NThuhC\n\nMore from MTV:\nOfficial MTV Website: http://www.mtv.com/\nLike MTV: https://www.facebook.com/MTV\nFollow MTV: https://twitter.com/MTV\nMTV Instagram: http://instagram.com/mtv\n\n#MTV is your destination for the hit series WNO, VMA, Jersey Shore, The Challenge, MTV Floribama Shore, Teen Mom and much more!"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RXEUPXIvrG5v3pe2HOe4HZnLNXg",
+      "id": "ZsJ-BHohXRI",
+      "snippet": {
+        "publishedAt": "2023-09-12T19:00:23Z",
+        "channelId": "UCxE5jEls-T0QtlTHT8lI1lw",
+        "title": "Olivia Rodrigo - get him back! (Official Video)",
+        "description": "Listen to “get him back!” on GUTS now: https://OliviaRodrigo.lnk.to/GUTS\n \nMusic video shot on iPhone 15 Pro in collaboration with Apple.\n#shotoniphone #ShotoniPhone15Pro #ShotoniPhone #iPhone15Pro #iPhone\n \nShop GUTS: https://OliviaRodrigo.lnk.to/store\n \nFollow Olivia Rodrigo: \nInstagram: https://instagram.com/oliviarodrigo \nTwitter: https://twitter.com/Olivia_Rodrigo \nFacebook: https://www.facebook.com/OliviaRodrig... \nYouTube: https://www.youtube.com/channel/UCy3zgWom-5AGypGX_FVTKpg\nTikTok: https://tiktok.com/@livbedumb \nDiscord: https://discord.gg/livieshq \n \nListen on Apple Music: https://OliviaRodrigo.lnk.to/GUTSAppleMusic\n\nDirected by Jack Begert\n  \nLYRICS\ni met a guy in the summer and i left him in the spring he argued with me about everything\nhe had an ego and a temper and a wandering eye he said he’s six foot two and i’m like, dude, nice try\nbut he was so much fun and he had such weird friends\nand he would take us out to parties and the night would never end another song, another club, another bar, another dance\nand when he said something wrong he’d just fly me to france\nso i miss him some nights when i’m feeling depressed till i remember every time he made a pass on my friend do i love him, do i hate him\ni guess it’s up and down\nif i had to choose, i would say right now\ni wanna get him back\ni wanna make him really jealous wanna make him feel bad oh i wanna get him back\ncuz then again i really miss him and it makes me real sad oh i want sweet revenge\nand i want him again\ni want to get him back back back\nso i write him all these letters and I throw them in the trash cuz i miss the way he kisses and the way he made me laugh yeah i pour my little heart out but as i’m hitting send\ni picture all the faces of my disappointed friends because everyone knew all of the shit that he’d do\nhe said i was the only girl but that just wasn’t the truth and when i told him how he hurt me\nhe’d tell me i was tripping but i am my father’s daughter so maybe i could fix him!\ni wanna get him back\ni wanna make him really jealous wanna make him feel bad oh i wanna get him back\ncuz then again i really miss him and it makes me real sad oh i want sweet revenge\nand i want him again\ni want to get him back and then!\ni want to get him back back back\ni wanna key his car\ni wanna make him lunch\n \ni wanna break his heart\nthen be the one to stitch it up wanna kiss his face\nwith an uppercut\ni wanna meet his mom\njust to tell her her son sucks\ni wanna key his car\ni wanna make him lunch i wanna break his heart stitch it right back up\ni wanna kiss his face with an uppercut\ni wanna meet his mom\nand tell her her son sucks yeah\ni wanna get him back\nI wanna make him really jealous wanna make him feel bad oh i wanna get him back\ncuz then again i really miss him and it makes me real sad oh i want sweet revenge and\ni want him again\ni want to get him back and then!\ni want to get him back back back\n\nMusic video by Olivia Rodrigo performing get him back!. © 2023 Olivia Rodrigo, under exclusive license to Geffen Records\n\nhttp://vevo.ly/dOdb21",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZsJ-BHohXRI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZsJ-BHohXRI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZsJ-BHohXRI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZsJ-BHohXRI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZsJ-BHohXRI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OliviaRodrigoVEVO",
+        "tags": ["get him back! (Official Video)", "Olivia Rodrigo"],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Olivia Rodrigo - get him back! (Official Video)",
+          "description": "Listen to “get him back!” on GUTS now: https://OliviaRodrigo.lnk.to/GUTS\n \nMusic video shot on iPhone 15 Pro in collaboration with Apple.\n#shotoniphone #ShotoniPhone15Pro #ShotoniPhone #iPhone15Pro #iPhone\n \nShop GUTS: https://OliviaRodrigo.lnk.to/store\n \nFollow Olivia Rodrigo: \nInstagram: https://instagram.com/oliviarodrigo \nTwitter: https://twitter.com/Olivia_Rodrigo \nFacebook: https://www.facebook.com/OliviaRodrig... \nYouTube: https://www.youtube.com/channel/UCy3zgWom-5AGypGX_FVTKpg\nTikTok: https://tiktok.com/@livbedumb \nDiscord: https://discord.gg/livieshq \n \nListen on Apple Music: https://OliviaRodrigo.lnk.to/GUTSAppleMusic\n\nDirected by Jack Begert\n  \nLYRICS\ni met a guy in the summer and i left him in the spring he argued with me about everything\nhe had an ego and a temper and a wandering eye he said he’s six foot two and i’m like, dude, nice try\nbut he was so much fun and he had such weird friends\nand he would take us out to parties and the night would never end another song, another club, another bar, another dance\nand when he said something wrong he’d just fly me to france\nso i miss him some nights when i’m feeling depressed till i remember every time he made a pass on my friend do i love him, do i hate him\ni guess it’s up and down\nif i had to choose, i would say right now\ni wanna get him back\ni wanna make him really jealous wanna make him feel bad oh i wanna get him back\ncuz then again i really miss him and it makes me real sad oh i want sweet revenge\nand i want him again\ni want to get him back back back\nso i write him all these letters and I throw them in the trash cuz i miss the way he kisses and the way he made me laugh yeah i pour my little heart out but as i’m hitting send\ni picture all the faces of my disappointed friends because everyone knew all of the shit that he’d do\nhe said i was the only girl but that just wasn’t the truth and when i told him how he hurt me\nhe’d tell me i was tripping but i am my father’s daughter so maybe i could fix him!\ni wanna get him back\ni wanna make him really jealous wanna make him feel bad oh i wanna get him back\ncuz then again i really miss him and it makes me real sad oh i want sweet revenge\nand i want him again\ni want to get him back and then!\ni want to get him back back back\ni wanna key his car\ni wanna make him lunch\n \ni wanna break his heart\nthen be the one to stitch it up wanna kiss his face\nwith an uppercut\ni wanna meet his mom\njust to tell her her son sucks\ni wanna key his car\ni wanna make him lunch i wanna break his heart stitch it right back up\ni wanna kiss his face with an uppercut\ni wanna meet his mom\nand tell her her son sucks yeah\ni wanna get him back\nI wanna make him really jealous wanna make him feel bad oh i wanna get him back\ncuz then again i really miss him and it makes me real sad oh i want sweet revenge and\ni want him again\ni want to get him back and then!\ni want to get him back back back\n\nMusic video by Olivia Rodrigo performing get him back!. © 2023 Olivia Rodrigo, under exclusive license to Geffen Records\n\nhttp://vevo.ly/dOdb21"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "53cnwph_g4bKnRgq_Pi24lhCD1w",
+      "id": "DIO5-BF8SzM",
+      "snippet": {
+        "publishedAt": "2023-09-12T15:49:58Z",
+        "channelId": "UCurvRE5fGcdUgCYWgh-BDsg",
+        "title": "Logan Paul vs. Dillon Danis: Face Off",
+        "description": "Ahead of their much anticipated showdown on DAZN PPV, October 14, Logan Paul and Dillon Danis sat down face-to-face, in a fiery face off. This is the moment we have all been waiting for. The hate between these two is real and the X Series 10 card is surely going to be the most electric night in crossover boxing history\n\n#PaulDanis, #KSIFury #ThePrimeCard #XSeries10, #Boxing #DAZN\n\nSubscribe to our YouTube channel 👉  http://bit.ly/DAZNBoxingYouTube\nSubscribe to the DAZN X Series YouTube channel 👉 https://bit.ly/XSeriesYouTube \n\nDownload the DAZN app now 👉  http://bit.ly/DAZNYoutube\n\nFollow DAZN Boxing On Social Media 👇\nTwitter: https://www.twitter.com/DAZNBoxing\nInstagram: https://www.instagram.com/DAZNBoxing\nFacebook: https://www.facebook.com/DAZN\n\nThe DAZN Boxing Show ► https://bit.ly/3EQ70HN\nDAZN Rewind ► https://bit.ly/32iAaRT\n\n#DAZN #DAZNBoxing #Boxing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DIO5-BF8SzM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DIO5-BF8SzM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DIO5-BF8SzM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DIO5-BF8SzM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DIO5-BF8SzM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DAZN Boxing",
+        "tags": [
+          "dazn",
+          "boxing",
+          "highlights",
+          "ko",
+          "knockout",
+          "dazn boxing",
+          "Logan Paul",
+          "Logan",
+          "Dillon",
+          "Dillon Danis",
+          "Logan Paul vs Dillon Danis",
+          "Logan Paul vs",
+          "Dilon Danis",
+          "Logan Paul v Dillon Danis",
+          "Logan v Dillon",
+          "Logan Paul face off",
+          "Dillon Danis face off Logan v Danis face off",
+          "Paul v Danis",
+          "Nina Agdal",
+          "Dillon Nina",
+          "KSI",
+          "KSI Tommy Fury",
+          "Tommy Fury",
+          "KSI v Tommy Fury",
+          "Boxing",
+          "Logan Paul boxing",
+          "Dillon Danis Boxing",
+          "DAZN",
+          "DAZN X Series",
+          "Misfits",
+          "Misfits boxing",
+          "KSI Logan Paul",
+          "Jake Paul KSI v Logan Paul"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Logan Paul vs. Dillon Danis: Face Off",
+          "description": "Ahead of their much anticipated showdown on DAZN PPV, October 14, Logan Paul and Dillon Danis sat down face-to-face, in a fiery face off. This is the moment we have all been waiting for. The hate between these two is real and the X Series 10 card is surely going to be the most electric night in crossover boxing history\n\n#PaulDanis, #KSIFury #ThePrimeCard #XSeries10, #Boxing #DAZN\n\nSubscribe to our YouTube channel 👉  http://bit.ly/DAZNBoxingYouTube\nSubscribe to the DAZN X Series YouTube channel 👉 https://bit.ly/XSeriesYouTube \n\nDownload the DAZN app now 👉  http://bit.ly/DAZNYoutube\n\nFollow DAZN Boxing On Social Media 👇\nTwitter: https://www.twitter.com/DAZNBoxing\nInstagram: https://www.instagram.com/DAZNBoxing\nFacebook: https://www.facebook.com/DAZN\n\nThe DAZN Boxing Show ► https://bit.ly/3EQ70HN\nDAZN Rewind ► https://bit.ly/32iAaRT\n\n#DAZN #DAZNBoxing #Boxing"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gCtoDhSOBbqz6A-octVa3uIGSgA",
+      "id": "sC5M9EkYaKI",
+      "snippet": {
+        "publishedAt": "2023-09-13T04:00:33Z",
+        "channelId": "UCTTcTeAszDGxALRSMkJH9FQ",
+        "title": "Big Difference",
+        "description": "Provided to YouTube by Universal Music Group\n\nBig Difference · Nicki Minaj\n\nBig Difference\n\n℗ 2023 Republic Records, a division of UMG Recordings, Inc.\n\nReleased on: 2023-09-13\n\nProducer, Associated  Performer, Programming: BoogzDaBeast\nProducer, Associated  Performer, Programming: FNZ\nProducer, Associated  Performer, Programming: Keanu Beats\nProducer, Associated  Performer, Programming: Slade Da Monsta\nStudio  Personnel, Mixer: Serban Ghenea\nStudio  Personnel, Assistant  Mixer: Bryce Bordone\nImmersive  Mix  Engineer, Studio  Personnel, Recording  Engineer: Aubry \"Big Juice\" Delaine\nAssociated  Performer, Vocals: Nicki Minaj\nA& R: Joshua Berkman\nA& R: Wendy Goldstein\nA& R: Bryan Montesano\nStudio  Personnel, Asst.  Recording  Engineer: Cory Williams\nStudio  Personnel, Mastering  Engineer: Chris Athens\nComposer  Lyricist: Onika Maraj\nComposer  Lyricist: Derrick Milano\nComposer  Lyricist: Jahmal Gwin\nComposer  Lyricist: Michael Mulé\nComposer  Lyricist: Isaac De Boni\nComposer  Lyricist: Keanu Torres\nComposer  Lyricist: Marcus Slade\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sC5M9EkYaKI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sC5M9EkYaKI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sC5M9EkYaKI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sC5M9EkYaKI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sC5M9EkYaKI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nicki Minaj - Topic",
+        "tags": [
+          "Nicki Minaj",
+          "ニッキーミナージュ",
+          "ニッキー・ミナージュ",
+          "Big Difference"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Big Difference",
+          "description": "Provided to YouTube by Universal Music Group\n\nBig Difference · Nicki Minaj\n\nBig Difference\n\n℗ 2023 Republic Records, a division of UMG Recordings, Inc.\n\nReleased on: 2023-09-13\n\nProducer, Associated  Performer, Programming: BoogzDaBeast\nProducer, Associated  Performer, Programming: FNZ\nProducer, Associated  Performer, Programming: Keanu Beats\nProducer, Associated  Performer, Programming: Slade Da Monsta\nStudio  Personnel, Mixer: Serban Ghenea\nStudio  Personnel, Assistant  Mixer: Bryce Bordone\nImmersive  Mix  Engineer, Studio  Personnel, Recording  Engineer: Aubry \"Big Juice\" Delaine\nAssociated  Performer, Vocals: Nicki Minaj\nA& R: Joshua Berkman\nA& R: Wendy Goldstein\nA& R: Bryan Montesano\nStudio  Personnel, Asst.  Recording  Engineer: Cory Williams\nStudio  Personnel, Mastering  Engineer: Chris Athens\nComposer  Lyricist: Onika Maraj\nComposer  Lyricist: Derrick Milano\nComposer  Lyricist: Jahmal Gwin\nComposer  Lyricist: Michael Mulé\nComposer  Lyricist: Isaac De Boni\nComposer  Lyricist: Keanu Torres\nComposer  Lyricist: Marcus Slade\n\nAuto-generated by YouTube."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GPkQMx27OFYFPOKFIrtWtSdQZL4",
+      "id": "-lxcK1wiMGM",
+      "snippet": {
+        "publishedAt": "2023-09-12T16:53:20Z",
+        "channelId": "UCqMtxjKnR7ySbEZSs2N-v0Q",
+        "title": "Jets Fan Rich Eisen Likens Aaron Rodgers’ Achilles Injury to a Horror Movie | The Rich Eisen Show",
+        "description": "Jets fan Rich Eisen recounts his team’s long history of bad luck with the latest being the season-ending Achilles injury to Aaron Rodgers.\n\nTune in to the Emmy-nominated Rich Eisen Show live for FREE on The Roku Channel at https://go.roku.com/thericheisenshow and also streaming on Audacy, Sirius channel 218 and XM channel 202 weekdays from 12--3 PM ET! \n\nShowcasing insightful sports expertise with an offbeat mix of humor and pop culture, The Rich Eisen Show attracts the most recognizable names in sports and entertainment. \n\nSubscribe here to keep up with the internet's best sports and pop culture commentary, interviews, and much more! \n\n------ SUBSCRIBE HERE: \nhttps://bit.ly/2VjWSBC \n\nFOLLOW US HERE: \nhttps://www.instagram.com/richeisenshow/ \nhttps://www.twitter.com/RichEisenShow \nhttps://www.facebook.com/RichEisenShow \nhttps://www.tiktok.com/@thericheisenshow \nhttps://www.audacy.com/richeisen/listen \n\n#aaronrodgers  #nfl #newyorkjets",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-lxcK1wiMGM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-lxcK1wiMGM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-lxcK1wiMGM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-lxcK1wiMGM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-lxcK1wiMGM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Rich Eisen Show",
+        "tags": [
+          "Rich Eisen",
+          "Rich Eisen Show",
+          "sports",
+          "NFL",
+          "football",
+          "college football",
+          "CFP",
+          "pop culture",
+          "Roku",
+          "NFL Network",
+          "Super Bowl",
+          "Football",
+          "CFB",
+          "College Football",
+          "NFL Draft",
+          "Jets",
+          "New York",
+          "Zach Wilson",
+          "Aaron Rodgers",
+          "Aaron Rodgers Achilles",
+          "Dalvin Cook",
+          "Hard Knocks",
+          "Robert Saleh",
+          "Nathaniel Hackett",
+          "Sauce Gardner",
+          "Garrett Wilson",
+          "Joe Douglas",
+          "Breece Hall",
+          "Mekhi Becton",
+          "AFC East",
+          "Buffalo Bills",
+          "Miami Dolphins",
+          "Patriots",
+          "Rodgers injury",
+          "Favre",
+          "Vinny Testaverde",
+          "Belichick",
+          "Parcells"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Jets Fan Rich Eisen Likens Aaron Rodgers’ Achilles Injury to a Horror Movie | The Rich Eisen Show",
+          "description": "Jets fan Rich Eisen recounts his team’s long history of bad luck with the latest being the season-ending Achilles injury to Aaron Rodgers.\n\nTune in to the Emmy-nominated Rich Eisen Show live for FREE on The Roku Channel at https://go.roku.com/thericheisenshow and also streaming on Audacy, Sirius channel 218 and XM channel 202 weekdays from 12--3 PM ET! \n\nShowcasing insightful sports expertise with an offbeat mix of humor and pop culture, The Rich Eisen Show attracts the most recognizable names in sports and entertainment. \n\nSubscribe here to keep up with the internet's best sports and pop culture commentary, interviews, and much more! \n\n------ SUBSCRIBE HERE: \nhttps://bit.ly/2VjWSBC \n\nFOLLOW US HERE: \nhttps://www.instagram.com/richeisenshow/ \nhttps://www.twitter.com/RichEisenShow \nhttps://www.facebook.com/RichEisenShow \nhttps://www.tiktok.com/@thericheisenshow \nhttps://www.audacy.com/richeisen/listen \n\n#aaronrodgers  #nfl #newyorkjets"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "fIAEG2YBcrAxafvC72x85FA4-qU",
+      "id": "82DgSYIfmcE",
+      "snippet": {
+        "publishedAt": "2023-09-12T18:21:59Z",
+        "channelId": "UCsTcErHg8oDvUnTzoqsYeNw",
+        "title": "iPhone 15 and iPhone 15 Pro Colors (Mockups)",
+        "description": "iPhone 15, iPhone 15 Pro and iPhone 15 Pro Max are here. Which color will you choose?\nUpgrade your sleep, use Code: UNBOXTHERAPY for a discount on your Eightsleep Pod Cover Here: https://www.eightsleep.com/ca/unboxtherapy/\n\nLatercase - https://latercase.com/iphone\n\nThanks to Eightsleep for partnering on this video. \n\nThis video features iPhone 15 *Models* in Black, Blue, Pink, White and Yellow. This video features iPhone Pro *Models* in Black, Blue, White and Natural.\n\nFOLLOW ME IN THESE PLACES FOR UPDATES\r\nTwitter - http://twitter.com/unboxtherapy\r\nFacebook - http://facebook.com/lewis.hilsenteger\r\nInstagram - http://instagram.com/unboxtherapy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/82DgSYIfmcE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/82DgSYIfmcE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/82DgSYIfmcE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/82DgSYIfmcE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/82DgSYIfmcE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Unbox Therapy",
+        "tags": [
+          "iphone 15",
+          "iphone 15 pro max",
+          "iphone 15 pro",
+          "iphone",
+          "apple",
+          "apple event",
+          "pro max",
+          "new iphone",
+          "iphone 15 vs",
+          "iphone 15 pro vs",
+          "iphone 15 review",
+          "iphone 15 hands on",
+          "iphone 15 unboxing",
+          "iphone 15 pro unboxing",
+          "iphone 15 pro max unboxing",
+          "unboxing",
+          "review",
+          "Apple Event - September 12",
+          "september 12",
+          "september",
+          "iphone 15 colors",
+          "iphone 15 pro colors",
+          "iphone 15 pink",
+          "iphone 15 white",
+          "iphone 15 black",
+          "iphone 15 blue",
+          "iphone 14",
+          "iphone 15 yellow",
+          "smartphone",
+          "smartphones",
+          "tech",
+          "technology"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "iPhone 15 and iPhone 15 Pro Colors (Mockups)",
+          "description": "iPhone 15, iPhone 15 Pro and iPhone 15 Pro Max are here. Which color will you choose?\nUpgrade your sleep, use Code: UNBOXTHERAPY for a discount on your Eightsleep Pod Cover Here: https://www.eightsleep.com/ca/unboxtherapy/\n\nLatercase - https://latercase.com/iphone\n\nThanks to Eightsleep for partnering on this video. \n\nThis video features iPhone 15 *Models* in Black, Blue, Pink, White and Yellow. This video features iPhone Pro *Models* in Black, Blue, White and Natural.\n\nFOLLOW ME IN THESE PLACES FOR UPDATES\r\nTwitter - http://twitter.com/unboxtherapy\r\nFacebook - http://facebook.com/lewis.hilsenteger\r\nInstagram - http://instagram.com/unboxtherapy"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yeKUQ_ajDS4S6RLA2V5InOJ_Snk",
+      "id": "MdLcP8dJls4",
+      "snippet": {
+        "publishedAt": "2023-09-12T16:00:20Z",
+        "channelId": "UCRXiA3h1no_PFkb1JCP0yMA",
+        "title": "Ariana Grande's Skin Care Routine & Guide to a ‘60s Cat Eye | Beauty Secrets | Vogue",
+        "description": "Multi-hyphenate megastar Ariana Grande walks us through her beauty routine, from radiance-boosting skin care to retro-style makeup. The Grammy-winning songwriter talks about her humble beginnings in family theater, her time as a guest judge on Ru Paul’s Drag Race and how makeup pioneers Audrey Hepburn and Marilyn Monroe helped inspire her own style.\r\n\r\nShop this beauty routine:\r\n\r\nLa Mer The Moisturizing Soft Cream Moisturizer: https://tinyurl.com/5n8r8czk\r\nUltaMD UV Clear Broad Spectrum SPF 46 Face Sunscreen: https://howl.me/ckzbpJmeyDr\r\nr.e.m. beauty Full Night's Sleep Cooling Blurring Undereye Balm: https://tinyurl.com/2p92nhvp\r\nShiseido Benefiance Wrinkle Resist 24 Pure Retinol Express Soothing Eye Mask: https://tinyurl.com/3efrs625\r\nr.e.m. beauty Sweetener Foundation: https://tinyurl.com/39hujw59\r\nr.e.m. beauty Sweetener Concealer: https://tinyurl.com/4zbe52mv\r\nAnastasia Beverly Hills Loose Setting Powder: https://tinyurl.com/3bu6hb4y\r\nMAC Eye Brows Styler: https://tinyurl.com/3btj8jxu\r\nDanessa Myrics Beauty Balm Contour: https://tinyurl.com/2p9dtsx5\r\nr.e.m. beauty Interstellar Highlighter Topper: https://tinyurl.com/jnbckppx\r\nBobbi Brown All Nudes Eye Shadow Palette: https://tinyurl.com/whrf352y\r\nr.e.m. beauty Multi-Use Eye Stick: https://tinyurl.com/4rtbj4bs\r\nDior Rosy Glow Blush: https://tinyurl.com/yavwawfw\r\nr.e.m. beauty Flourishing Volumizing Mascara: https://tinyurl.com/3jmh69s7\r\nr.e.m. beauty Practically Permanent Lip Stain Marker: https://tinyurl.com/y2btfndm\r\nLancôme Juicy Tubes Lip Gloss: https://tinyurl.com/yxxunsnr\r\nr.e.m. beauty On Your Collar Plumping Lip Gloss: https://tinyurl.com/yc6hfr3y\r\nr.e.m. beauty Mod Vanilla Eau de Parfum: https://tinyurl.com/yc78xhjj\r\nRhode Peptide Lip Treatment: https://tinyurl.com/34py9bcn\r\nCharlotte Tilbury Rock 'N' Kohl Bedroom Black Eyeliner: https://tinyurl.com/wa58wxuy\r\n\r\n\r\nShop more Beauty Secrets favorites below:\r\n\r\nChanel Vitalumière Radiant, Moisture-Rich Fluid Foundation: https://shop-links.co/chBzLvwixBO\r\nKosas Cloud Set Setting Powder: https://shop-links.co/chBzLQyzJ5S\r\nDieux Skin Forever Eye Masks: https://fave.co/3Pb2Yyu\r\nSaie Hydrabeam Concealer: https://shop-links.co/chBzL0XWkaP\r\nDroplette Microinfusion Device: https://bit.ly/3upy9yn\r\n\r\n\r\nWhen you buy something through our retail links, we earn an affiliate commission.\r\n\r\n\r\nDirector: Gabrielle Reich\r\nDP: Alex Hass\r\nEditor: Michael Suyeda\r\n\r\nAssociate Producer: Lea Donenberg\r\nProduction Manager: Kit Fogarty\r\nProduction Coordinator: Ava Kashar\r\nEntertainment Director, Vogue: Sergio Kletnoy\r\n\r\nPost Production Supervisor: Edward Taylor\r\nPost Production Coordinator: Jovan James\r\nSupervising Editor: Kameron Key\r\nAssistant Editor: Lauren Worona\r\nFilmed at: The William Vale\n\nStill haven’t subscribed to Vogue on YouTube? ►► http://bit.ly/vogueyoutubesub\r\nGet the best of Vogue delivered right in your inbox ►► https://bit.ly/3xAZyQg\r\nWant to hear more from our editors? Subscribe to the magazine ►► http://bit.ly/2wXh1VW\r\nCheck out our new podcast 'In Vogue: The 1990s'  ►► https://link.chtbl.com/iv-yt-description\r\n \r\nABOUT VOGUE\r\nVogue is the authority on fashion news, culture trends, beauty coverage, videos, celebrity style, and fashion week updates.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MdLcP8dJls4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MdLcP8dJls4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MdLcP8dJls4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MdLcP8dJls4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MdLcP8dJls4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Vogue",
+        "tags": [
+          "ari",
+          "ariana crying",
+          "ariana grande",
+          "ariana grande beauty",
+          "ariana grande beauty secrets",
+          "ariana grande beauty secrets routine",
+          "ariana grande beauty standards",
+          "ariana grande cry",
+          "ariana grande emotional",
+          "ariana grande eye patches",
+          "ariana grande gets emotional",
+          "ariana grande gets ready",
+          "ariana grande getting ready",
+          "ariana grande getting ready routine",
+          "ariana grande makeup routine vogue",
+          "beauty",
+          "celebrity",
+          "emotional ariana grande video",
+          "how to",
+          "vogue",
+          "vogue ariana grande"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Ariana Grande's Skin Care Routine & Guide to a ‘60s Cat Eye | Beauty Secrets | Vogue",
+          "description": "Multi-hyphenate megastar Ariana Grande walks us through her beauty routine, from radiance-boosting skin care to retro-style makeup. The Grammy-winning songwriter talks about her humble beginnings in family theater, her time as a guest judge on Ru Paul’s Drag Race and how makeup pioneers Audrey Hepburn and Marilyn Monroe helped inspire her own style.\r\n\r\nShop this beauty routine:\r\n\r\nLa Mer The Moisturizing Soft Cream Moisturizer: https://tinyurl.com/5n8r8czk\r\nUltaMD UV Clear Broad Spectrum SPF 46 Face Sunscreen: https://howl.me/ckzbpJmeyDr\r\nr.e.m. beauty Full Night's Sleep Cooling Blurring Undereye Balm: https://tinyurl.com/2p92nhvp\r\nShiseido Benefiance Wrinkle Resist 24 Pure Retinol Express Soothing Eye Mask: https://tinyurl.com/3efrs625\r\nr.e.m. beauty Sweetener Foundation: https://tinyurl.com/39hujw59\r\nr.e.m. beauty Sweetener Concealer: https://tinyurl.com/4zbe52mv\r\nAnastasia Beverly Hills Loose Setting Powder: https://tinyurl.com/3bu6hb4y\r\nMAC Eye Brows Styler: https://tinyurl.com/3btj8jxu\r\nDanessa Myrics Beauty Balm Contour: https://tinyurl.com/2p9dtsx5\r\nr.e.m. beauty Interstellar Highlighter Topper: https://tinyurl.com/jnbckppx\r\nBobbi Brown All Nudes Eye Shadow Palette: https://tinyurl.com/whrf352y\r\nr.e.m. beauty Multi-Use Eye Stick: https://tinyurl.com/4rtbj4bs\r\nDior Rosy Glow Blush: https://tinyurl.com/yavwawfw\r\nr.e.m. beauty Flourishing Volumizing Mascara: https://tinyurl.com/3jmh69s7\r\nr.e.m. beauty Practically Permanent Lip Stain Marker: https://tinyurl.com/y2btfndm\r\nLancôme Juicy Tubes Lip Gloss: https://tinyurl.com/yxxunsnr\r\nr.e.m. beauty On Your Collar Plumping Lip Gloss: https://tinyurl.com/yc6hfr3y\r\nr.e.m. beauty Mod Vanilla Eau de Parfum: https://tinyurl.com/yc78xhjj\r\nRhode Peptide Lip Treatment: https://tinyurl.com/34py9bcn\r\nCharlotte Tilbury Rock 'N' Kohl Bedroom Black Eyeliner: https://tinyurl.com/wa58wxuy\r\n\r\n\r\nShop more Beauty Secrets favorites below:\r\n\r\nChanel Vitalumière Radiant, Moisture-Rich Fluid Foundation: https://shop-links.co/chBzLvwixBO\r\nKosas Cloud Set Setting Powder: https://shop-links.co/chBzLQyzJ5S\r\nDieux Skin Forever Eye Masks: https://fave.co/3Pb2Yyu\r\nSaie Hydrabeam Concealer: https://shop-links.co/chBzL0XWkaP\r\nDroplette Microinfusion Device: https://bit.ly/3upy9yn\r\n\r\n\r\nWhen you buy something through our retail links, we earn an affiliate commission.\r\n\r\n\r\nDirector: Gabrielle Reich\r\nDP: Alex Hass\r\nEditor: Michael Suyeda\r\n\r\nAssociate Producer: Lea Donenberg\r\nProduction Manager: Kit Fogarty\r\nProduction Coordinator: Ava Kashar\r\nEntertainment Director, Vogue: Sergio Kletnoy\r\n\r\nPost Production Supervisor: Edward Taylor\r\nPost Production Coordinator: Jovan James\r\nSupervising Editor: Kameron Key\r\nAssistant Editor: Lauren Worona\r\nFilmed at: The William Vale\n\nStill haven’t subscribed to Vogue on YouTube? ►► http://bit.ly/vogueyoutubesub\r\nGet the best of Vogue delivered right in your inbox ►► https://bit.ly/3xAZyQg\r\nWant to hear more from our editors? Subscribe to the magazine ►► http://bit.ly/2wXh1VW\r\nCheck out our new podcast 'In Vogue: The 1990s'  ►► https://link.chtbl.com/iv-yt-description\r\n \r\nABOUT VOGUE\r\nVogue is the authority on fashion news, culture trends, beauty coverage, videos, celebrity style, and fashion week updates."
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OVKjfwJOP1GQy9sEMQkegDZ2xtc",
+      "id": "lU2PavUut5U",
+      "snippet": {
+        "publishedAt": "2023-09-12T23:00:17Z",
+        "channelId": "UCsaS5aZjlJPJCzNwjEc3waw",
+        "title": "Scotland 1-3 England | 150th Anniversary Heritage Match Highlights | Scotland National Team",
+        "description": "Highlights from tonight's 150th Anniversary Heritage Match against England at Hampden Park. \n\n► Subscribe: http://scotfa.co/YTsubscribe\n\n►Twitter: http://scotfa.co/scotlandtw\n►Facebook: http://scotfa.co/scofb\n►Instagram: http://scotfa.co/sntinsta\n\nMore from us on YouTube:\n►Scottish Cup: http://scotfa.co/cupyoutube\n►Scottish FA: http://scotfa.co/ScotFAYT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lU2PavUut5U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lU2PavUut5U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lU2PavUut5U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lU2PavUut5U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lU2PavUut5U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Scotland National Team",
+        "tags": [
+          "Scotland",
+          "Scotland National Team",
+          "Football",
+          "scotland 1-3 england",
+          "scotland v england",
+          "scotland england highlights",
+          "scotland highlights",
+          "scotland national team",
+          "steve clarke",
+          "scotland squad",
+          "jude bellingham",
+          "jude bellingham v scotland",
+          "harry kane",
+          "harry kane v scotland",
+          "harry maguire",
+          "billy gilmour",
+          "john mcginn",
+          "scotland euro 2024"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Scotland 1-3 England | 150th Anniversary Heritage Match Highlights | Scotland National Team",
+          "description": "Highlights from tonight's 150th Anniversary Heritage Match against England at Hampden Park. \n\n► Subscribe: http://scotfa.co/YTsubscribe\n\n►Twitter: http://scotfa.co/scotlandtw\n►Facebook: http://scotfa.co/scofb\n►Instagram: http://scotfa.co/sntinsta\n\nMore from us on YouTube:\n►Scottish Cup: http://scotfa.co/cupyoutube\n►Scottish FA: http://scotfa.co/ScotFAYT"
+        },
+        "defaultAudioLanguage": "en-GB"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rnXJGlNsDOOpDVkqlZdx5OZwD_Y",
+      "id": "EcGXCJm3XMA",
+      "snippet": {
+        "publishedAt": "2023-09-12T18:49:14Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "A Guided Tour of iPhone 15 & iPhone 15 Pro | Apple",
+        "description": "Find a new iPhone 15 that’s right for you. We’re going to go over the exciting news that makes this the most impressive iPhone lineup ever. We’ll explore iPhone 15, iPhone 15 Plus, iPhone 15 Pro, and iPhone 15 Pro Max, and take an in-depth look at some of their amazing new features, sizes, and colors.\n\n00:00 - Introduction\n00:11 - Four new iPhone models\n01:59 - Titanium design\n02:25 - Action button\n02:45 - Color-infused glass design\n02:56 - Dynamic Island\n03:33 - A16 Bionic chip on iPhone 15\n03:52 - A17 Pro chip on iPhone 15 Pro\n04:26 - Next-gen portraits\n05:08 - 5x Telephoto camera on iPhone 15 Pro Max\n06:05 - Video features\n06:34 - USB-C with USB 3\n07:38 - Trade-In\n\nCompare all four new iPhone models: https://apple.co/3rcLqMd\nMeet the new iPhone family: https://apple.co/3rcLqMd\n\n#GuidedTour #iPhone15 #iPhone15Pro                                                                    \n\nWelcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Apple’s more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EcGXCJm3XMA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EcGXCJm3XMA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EcGXCJm3XMA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EcGXCJm3XMA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EcGXCJm3XMA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Apple",
+        "tags": [
+          "Apple",
+          "iPhone 15",
+          "iPhone 15 Plus",
+          "iPhone 15 Pro",
+          "iPhone 15 Pro Max",
+          "compare iPhone",
+          "new iPhone",
+          "best new iPhone",
+          "Dynamic Island",
+          "iOS 17",
+          "48MP",
+          "Portrait mode",
+          "next gen portraits",
+          "high resolution",
+          "USBc",
+          "USB-C",
+          "USB3",
+          "A17",
+          "A16",
+          "bionic",
+          "Aluminum",
+          "Titanium",
+          "5x Telephoto camera",
+          "Action button",
+          "ProRes",
+          "4K60",
+          "Ceramic Shield",
+          "Durable phone",
+          "battery",
+          "compare smartphone",
+          "compare iPhone models",
+          "Trade in"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "A Guided Tour of iPhone 15 & iPhone 15 Pro | Apple",
+          "description": "Find a new iPhone 15 that’s right for you. We’re going to go over the exciting news that makes this the most impressive iPhone lineup ever. We’ll explore iPhone 15, iPhone 15 Plus, iPhone 15 Pro, and iPhone 15 Pro Max, and take an in-depth look at some of their amazing new features, sizes, and colors.\n\n00:00 - Introduction\n00:11 - Four new iPhone models\n01:59 - Titanium design\n02:25 - Action button\n02:45 - Color-infused glass design\n02:56 - Dynamic Island\n03:33 - A16 Bionic chip on iPhone 15\n03:52 - A17 Pro chip on iPhone 15 Pro\n04:26 - Next-gen portraits\n05:08 - 5x Telephoto camera on iPhone 15 Pro Max\n06:05 - Video features\n06:34 - USB-C with USB 3\n07:38 - Trade-In\n\nCompare all four new iPhone models: https://apple.co/3rcLqMd\nMeet the new iPhone family: https://apple.co/3rcLqMd\n\n#GuidedTour #iPhone15 #iPhone15Pro                                                                    \n\nWelcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Apple’s more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-VpjevLugEq88l6Dj0dgHo7b93A",
+      "id": "-HmaAl2X09E",
+      "snippet": {
+        "publishedAt": "2023-09-12T18:53:37Z",
+        "channelId": "UCddiUEpeqJcYeBxX1IVBKvQ",
+        "title": "iPhone 15 event in 17 minutes",
+        "description": "Apple just wrapped up its Wonderlust showcase, where it revealed an updated iPhone 15 lineup with USB-C, Dynamic Island, and more. Plus, we got a look at the Watch Series 9, Watch Ultra 2, and much more. Here are all the biggest announcements. #Apple #Technology #iPhone15 \n\nRead more here: https://bit.ly/48fF6Ek \n\n0:00 Apple Watch Series 9\n1:47 double tap feature demo\n2:40 Apple Watch Series 9 availability\n3:02 Apple Watch Ultra 2\n4:17 iPhone 15 hardware\n5:26 iPhone 15 camera\n6:49 iPhone 15 performance\n09:09 iPhone + USB-C = ❤️\n9:34 iPhone 15 availability\n9:45 iPhone 15 Pro hardware\n11:20 iPhone 15 Pro performance\n13:53 iPhone 15 Pro camera\n16:43 iPhone 15 Pro availability\n\nSubscribe: http://goo.gl/G5RXGs\nSubscribe: http://goo.gl/G5RXGs\nLike The Verge on Facebook: https://goo.gl/2P1aGc\nFollow on Twitter: https://goo.gl/XTWX61\nFollow on Instagram: https://goo.gl/7ZeLvX\nFollow on TikTok: http://bit.ly/42VeCVU\n\nThe Vergecast Podcast: https://pod.link/430333725\nDecoder with Nilay Patel: http://apple.co/3v29nDc \nMore about our podcasts: https://www.theverge.com/podcasts\n\nRead More: http://www.theverge.com\nCommunity guidelines: http://bit.ly/2D0hlAv\nWallpapers from The Verge: https://bit.ly/2xQXYJr\n\nSubscribe to The Vergecast on YouTube, new episodes on Wednesday and Friday: https://bit.ly/3I6nJtz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-HmaAl2X09E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-HmaAl2X09E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-HmaAl2X09E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-HmaAl2X09E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-HmaAl2X09E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Verge",
+        "tags": [
+          "iPhone 15",
+          "new iPhone 15",
+          "iPhone USB-C",
+          "Apple Event",
+          "Apple Event 2023",
+          "Apple Event recap",
+          "Apple Event supercut",
+          "iPhone 15 Plus",
+          "iPhone 15 Pro",
+          "Apple Watch Ultra 2",
+          "iphone 15 pro max",
+          "iphone 15 ultra",
+          "iphone 15 colors",
+          "iphone 15 camera",
+          "iphone 15 release date",
+          "apple iphone 15",
+          "iphone 15 review",
+          "iphone 15 rumors",
+          "iphone 15 design",
+          "iphone 15 pro max 2023",
+          "iphone 15 pro camera",
+          "apple watch",
+          "tech",
+          "the verge",
+          "apple event 2023"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "iPhone 15 event in 17 minutes",
+          "description": "Apple just wrapped up its Wonderlust showcase, where it revealed an updated iPhone 15 lineup with USB-C, Dynamic Island, and more. Plus, we got a look at the Watch Series 9, Watch Ultra 2, and much more. Here are all the biggest announcements. #Apple #Technology #iPhone15 \n\nRead more here: https://bit.ly/48fF6Ek \n\n0:00 Apple Watch Series 9\n1:47 double tap feature demo\n2:40 Apple Watch Series 9 availability\n3:02 Apple Watch Ultra 2\n4:17 iPhone 15 hardware\n5:26 iPhone 15 camera\n6:49 iPhone 15 performance\n09:09 iPhone + USB-C = ❤️\n9:34 iPhone 15 availability\n9:45 iPhone 15 Pro hardware\n11:20 iPhone 15 Pro performance\n13:53 iPhone 15 Pro camera\n16:43 iPhone 15 Pro availability\n\nSubscribe: http://goo.gl/G5RXGs\nSubscribe: http://goo.gl/G5RXGs\nLike The Verge on Facebook: https://goo.gl/2P1aGc\nFollow on Twitter: https://goo.gl/XTWX61\nFollow on Instagram: https://goo.gl/7ZeLvX\nFollow on TikTok: http://bit.ly/42VeCVU\n\nThe Vergecast Podcast: https://pod.link/430333725\nDecoder with Nilay Patel: http://apple.co/3v29nDc \nMore about our podcasts: https://www.theverge.com/podcasts\n\nRead More: http://www.theverge.com\nCommunity guidelines: http://bit.ly/2D0hlAv\nWallpapers from The Verge: https://bit.ly/2xQXYJr\n\nSubscribe to The Vergecast on YouTube, new episodes on Wednesday and Friday: https://bit.ly/3I6nJtz"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "EYJMS-glxQZ7KF1x9yYZ7Uc2Bcc",
+      "id": "Zk8DnHKqBRg",
+      "snippet": {
+        "publishedAt": "2023-09-12T03:38:37Z",
+        "channelId": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+        "title": "Buffalo Bills vs. New York Jets | 2023 Week 1 Game Highlights",
+        "description": "Check out our other channels:\nNFL Mundo https://www.youtube.com/mundonfl\nNFL Brasil https://www.youtube.com/c/NFLBrasilOficial\nNFL UK https://www.youtube.com/channel/UCVe0dAja_vZCmvfHXjtdRQA \nNFL Fantasy Football https://www.youtube.com/nflfantasyfootball\nNFL Play Football https://www.youtube.com/playfootball\nNFL Throwback http://www.youtube.com/nflvault\nNFL Films http://www.youtube.com/nflfilms\nNFL Network http://www.youtube.com/nflnetwork\n\n#NFL #Football #AmericanFootball",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zk8DnHKqBRg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zk8DnHKqBRg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zk8DnHKqBRg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Zk8DnHKqBRg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Zk8DnHKqBRg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NFL",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Buffalo Bills vs. New York Jets | 2023 Week 1 Game Highlights",
+          "description": "Check out our other channels:\nNFL Mundo https://www.youtube.com/mundonfl\nNFL Brasil https://www.youtube.com/c/NFLBrasilOficial\nNFL UK https://www.youtube.com/channel/UCVe0dAja_vZCmvfHXjtdRQA \nNFL Fantasy Football https://www.youtube.com/nflfantasyfootball\nNFL Play Football https://www.youtube.com/playfootball\nNFL Throwback http://www.youtube.com/nflvault\nNFL Films http://www.youtube.com/nflfilms\nNFL Network http://www.youtube.com/nflnetwork\n\n#NFL #Football #AmericanFootball"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "SXCr7SCghLHt05g9Henj4CrqkqU",
+      "id": "Uj_ZfSyA1Z4",
+      "snippet": {
+        "publishedAt": "2023-09-12T16:00:22Z",
+        "channelId": "UCvAhDxNNUDhi78tMXVGBUaQ",
+        "title": "Rebuilding A Flooded $2,000,000 McLaren P1 | Part 9",
+        "description": "Get addicted to water while experiencing flavor in a new way with air up today!►https://airup.link/46bfFSJ \nThanks to Air Up for sponsoring this video!\n--------------------------------------------------------------------\nThanks to Paint Society!►https://www.youtube.com/@PaintSociety\nThanks to Rich Rebuilds!►https://www.youtube.com/@RichRebuilds\nThanks to Jay Leno's Garage!►https://www.youtube.com/@jaylenosgarage\n--------------------------------------------------------------------\nSubscribe! ►http://bit.ly/2xZGtYN\nInstagram ►https://www.instagram.com/therealtavarish\nTavarish Shirts and Merch! ►http://bit.ly/shoptavarish\n--------------------------------------------------------------------\nThanks to the companies that support this channel!\nValvoline - The Original Motor Oil►https://www.valvoline.com/\nFind your dream car on AutoTempest!►https://bit.ly/foundonautotempest\n--------------------------------------------------------------------\nQuestions? Comments? Business inquiries? Email me at asktavarish@gmail.com\n--------------------------------------------------------------------\nMy Equipment: \nSimiron Epoxy Floor Coating►https://simiron.com\nBendpak Lifts and Equipment►https://bendpak.com\n--------------------------------------------------------------------\nMusic used in this video:\nNIVIRO - You [NCS Release]►https://www.youtube.com/watch?v=2Nv5juZKhKo\n\nMalik Bash - Ghosts [NCS Release]►https://www.youtube.com/watch?v=-9Z5Nhsm7GA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Uj_ZfSyA1Z4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Uj_ZfSyA1Z4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Uj_ZfSyA1Z4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Uj_ZfSyA1Z4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Uj_ZfSyA1Z4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tavarish",
+        "tags": [
+          "aston martin",
+          "mercedes",
+          "amg",
+          "hyundai",
+          "bmw",
+          "lamborghini",
+          "ferrari",
+          "toyota",
+          "supra",
+          "mr2",
+          "sw20",
+          "3sgte",
+          "2jz",
+          "1jz",
+          "sl55",
+          "r230",
+          "r231",
+          "m113k",
+          "vantage",
+          "v8",
+          "v12",
+          "v10",
+          "v6",
+          "gallardo",
+          "turbo",
+          "cheap",
+          "budget",
+          "diy",
+          "wrench everyday",
+          "doug demuro",
+          "chrisfix",
+          "hoovies garage",
+          "tavarish",
+          "jalopnik",
+          "mightycarmods",
+          "motor trend",
+          "roadkill",
+          "hack",
+          "bendpak",
+          "tools",
+          "lift",
+          "4 post",
+          "2 post",
+          "quick jack",
+          "welding",
+          "how to",
+          "tutorial"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Rebuilding A Flooded $2,000,000 McLaren P1 | Part 9",
+          "description": "Get addicted to water while experiencing flavor in a new way with air up today!►https://airup.link/46bfFSJ \nThanks to Air Up for sponsoring this video!\n--------------------------------------------------------------------\nThanks to Paint Society!►https://www.youtube.com/@PaintSociety\nThanks to Rich Rebuilds!►https://www.youtube.com/@RichRebuilds\nThanks to Jay Leno's Garage!►https://www.youtube.com/@jaylenosgarage\n--------------------------------------------------------------------\nSubscribe! ►http://bit.ly/2xZGtYN\nInstagram ►https://www.instagram.com/therealtavarish\nTavarish Shirts and Merch! ►http://bit.ly/shoptavarish\n--------------------------------------------------------------------\nThanks to the companies that support this channel!\nValvoline - The Original Motor Oil►https://www.valvoline.com/\nFind your dream car on AutoTempest!►https://bit.ly/foundonautotempest\n--------------------------------------------------------------------\nQuestions? Comments? Business inquiries? Email me at asktavarish@gmail.com\n--------------------------------------------------------------------\nMy Equipment: \nSimiron Epoxy Floor Coating►https://simiron.com\nBendpak Lifts and Equipment►https://bendpak.com\n--------------------------------------------------------------------\nMusic used in this video:\nNIVIRO - You [NCS Release]►https://www.youtube.com/watch?v=2Nv5juZKhKo\n\nMalik Bash - Ghosts [NCS Release]►https://www.youtube.com/watch?v=-9Z5Nhsm7GA"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Rr5oyUC6vkoX9RoE96PHlnmd344",
+      "id": "6ifhLKc1JjQ",
+      "snippet": {
+        "publishedAt": "2023-09-13T02:10:12Z",
+        "channelId": "UCSo19KhHogXxu3sFsOpqrcQ",
+        "title": "Mexico 3-3 Uzbekistán - HIGHLIGHTS | Amistoso Internacional | TUDN",
+        "description": "La mayor oferta de partidos de la Liga Mx en ViX: https://vix.com/es-es/deportes?utm_medium=organic_social&utm_source=youtube&utm_campaign=evergreen&utm_content=ed_sports\n\nUzbekistán SORPRENDE a todos y le saca un empate de último minuto a México.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6ifhLKc1JjQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6ifhLKc1JjQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6ifhLKc1JjQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6ifhLKc1JjQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6ifhLKc1JjQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TUDN USA",
+        "tags": [
+          "Televisa",
+          "Univision",
+          "TUDN",
+          "Televisa deportes",
+          "TUDN México",
+          "TUDN USA",
+          "Deportes",
+          "soccer",
+          "futbol mexicano",
+          "liga mx 2023",
+          "seleccion mexicana",
+          "amistoso seleccion",
+          "mexitour",
+          "mexico vs uzbekiztán resumen",
+          "jimmy lozano seleccion",
+          "santi gimenez mexico",
+          "México 3-3 Uzbekistán",
+          "Gol Jiménez",
+          "Resumen México",
+          "Resumen Uzbekistán"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Mexico 3-3 Uzbekistán - HIGHLIGHTS | Amistoso Internacional | TUDN",
+          "description": "La mayor oferta de partidos de la Liga Mx en ViX: https://vix.com/es-es/deportes?utm_medium=organic_social&utm_source=youtube&utm_campaign=evergreen&utm_content=ed_sports\n\nUzbekistán SORPRENDE a todos y le saca un empate de último minuto a México."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "eVEfUdUp79st9WgvF2PKKl36mjs",
+      "id": "6tNXfybdZ5s",
+      "snippet": {
+        "publishedAt": "2023-09-12T15:23:01Z",
+        "channelId": "UCiWLfSweyRNmLpgEHekhoAg",
+        "title": "🚨 BREAKING 🚨 Stephen A. & Shannon Sharpe react to Aaron Rodgers’ season being over | First Take",
+        "description": "On First Take, Stephen A. Smith, Pat McAfee and Shannon Sharpe react to the breaking news that Aaron Rodgers’ season is officially over, per Adam Schefter’s reports.\n#ESPN #FirstTake #StephenA #ShannonSharpe \r\n\n✔️Subscribe to ESPN+ http://espnplus.com/youtube\n✔️ Get the ESPN App: http://www.espn.com/espn/apps/espn\n✔️Subscribe to ESPN on YouTube: http://es.pn/SUBSCRIBEtoYOUTUBE\n✔️ Subscribe to NBA on ESPN on YouTube: http://bit.ly/SUBSCRIBEtoNBAonESPN\n✔️ Watch ESPN on YouTube TV: http://es.pn/YouTubeTV",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6tNXfybdZ5s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6tNXfybdZ5s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6tNXfybdZ5s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6tNXfybdZ5s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "ESPN",
+        "tags": [
+          "Stephen A. Smith",
+          "Stephen A. Smith First Take",
+          "Stephen A Smith",
+          "Stephen A Smith First Take",
+          "First Take",
+          "Shannon Sharpe",
+          "Shannon Sharpe First Take",
+          "Shannon Sharpe vs Stephen A. Smith",
+          "Stephen a smith first take",
+          "Stephen a first take",
+          "shannon Sharpe first take",
+          "first take Stephen a",
+          "first take shannon Sharpe",
+          "aaron rodgers breaking news",
+          "NFL on ESPN",
+          "aaron rodgers out",
+          "aaron rodgers injury",
+          "aaron rodgers out for season",
+          "aaron rodgers jets",
+          "pat mcafee",
+          "pat mcafee first take"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "🚨 BREAKING 🚨 Stephen A. & Shannon Sharpe react to Aaron Rodgers’ season being over | First Take",
+          "description": "On First Take, Stephen A. Smith, Pat McAfee and Shannon Sharpe react to the breaking news that Aaron Rodgers’ season is officially over, per Adam Schefter’s reports.\n#ESPN #FirstTake #StephenA #ShannonSharpe \r\n\n✔️Subscribe to ESPN+ http://espnplus.com/youtube\n✔️ Get the ESPN App: http://www.espn.com/espn/apps/espn\n✔️Subscribe to ESPN on YouTube: http://es.pn/SUBSCRIBEtoYOUTUBE\n✔️ Subscribe to NBA on ESPN on YouTube: http://bit.ly/SUBSCRIBEtoNBAonESPN\n✔️ Watch ESPN on YouTube TV: http://es.pn/YouTubeTV"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "EffPVnCKgVexY5zhkmPYS7xD4zE",
+      "id": "4Stzj2_Rlo4",
+      "snippet": {
+        "publishedAt": "2023-09-12T14:00:06Z",
+        "channelId": "UCsXVk37bltHxD1rDPwtNM8Q",
+        "title": "You're a Dream of the Universe (According to Science)",
+        "description": "To get started planning a fulfilling career that does a lot of good, go to https://80000hours.org/kurzgesagt for your free career guide.\n\nSources & further reading:\nhttps://sites.google.com/view/sources-boltzmannbrain/startseite?authuser=2\n\nAbsolutely everything you think about yourself and the universe could be an illusion. As far as you know, you are real and exist in a universe that was born 14 billion years ago and that gave rise to galaxies, stars, the Earth, and finally you. Except, maybe not.\n\nOUR CHANNELS\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nGerman:        https://kgs.link/youtubeDE\nSpanish:        https://kgs.link/youtubeES\nFrench:          https://kgs.link/youtubeFR\nPortuguese:  https://kgs.link/youtubePT\nArabic:           https://kgs.link/youtubeAR\nHindi:             https://kgs.link/youtubeHI\nJapanese:     https://kgs.link/youtubeJA\nKorean:          https://kgs.link/youtubeKO\n\n\nHOW CAN YOU SUPPORT US?\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nThis is how we make our living and it would be a pleasure if you support us!\n\nGet Products designed with ❤ https://shop-us.kurzgesagt.org  \nJoin the Patreon Bird Army 🐧  https://kgs.link/patreon  \n\n\nDISCUSSIONS & SOCIAL MEDIA\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nTikTok:           https://kgs.link/tiktok\nReddit:            https://kgs.link/reddit\nInstagram:     https://kgs.link/instagram\nTwitter:           https://kgs.link/twitter\nFacebook:      https://kgs.link/facebook\nDiscord:          https://kgs.link/discord\nNewsletter:    https://kgs.link/newsletter\n\n\nOUR VOICE\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nThe Kurzgesagt voice is from \nSteve Taylor:  https://kgs.link/youtube-voice\n\n\nOUR MUSIC ♬♪\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n700+ minutes of Kurzgesagt Soundtracks by Epic Mountain:\n\nSpotify:            https://kgs.link/music-spotify\nSoundcloud:   https://kgs.link/music-soundcloud\nBandcamp:     https://kgs.link/music-bandcamp\nYoutube:          https://kgs.link/music-youtube\nFacebook:       https://kgs.link/music-facebook\n\nThe Soundtrack of this video:\nSoundcloud: https://bit.ly/44HSBtH \nBandcamp: https://bit.ly/3RkSOjh\n\nIf you want to help us caption this video, please send subtitles to subtitle@kurzgesagt.org\nYou can find info on what subtitle files work on YouTube here:\nhttps://support.google.com/youtube/answer/2734698?hl=en-GB&ref_topic=7296214\nThank you!\n\n🐦🐧🐤 PATREON BIRD ARMY 🐤🐧🐦\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nMany Thanks to our wonderful Patreons (from http://kgs.link/patreon) who support us every month and made this video possible:\nRebecca Lin, 金山俊　那須, Britnei Tweedy, Ryan, 슝 김, Tyler, Kathi, Ivan Milani, Rico Aarntzen, Nikita Khlebushkin, Christopher Kyle Horton, Valentin Binotto, Nico Riemann, Jesse Plung, Timothy Dooley, Yasheen Sewnarain, saif samer, Taki Reizen, Dragon force Secret art, Jasper Narvil, Alexander Rajaković, TheDoxy, Martijn Gerritsen, Bogdan, Manuel Berdin, Karen Epstein, Sinjid, Peyton, Adi Wabisabi, Infinitae Aetas, Ruben Iusim, febilly, Reyansh Baralay, Ecunna Versity, Stefan Mermans, Nicholas Fernald, Enrique Gonzalez, Jimmy W, Andrew Keenan Richardson, DeMar M., Jordan, chrisby, Niklas Sommer, Kathi, Jakob, Christina Woodbury, Scientist Keo, Dante Jerlich, NekuSoul, Frivack, Adrian, Robin Z., Zeal, MontanaMonarch, Matthew Watson, 민호 김, Mason Edmonds, Nils Hegenbart, Snail, Israel, Ariel Grucza, The Awkward Yeti, Don B, Andreas Andreas, Xeovis",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4Stzj2_Rlo4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4Stzj2_Rlo4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4Stzj2_Rlo4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4Stzj2_Rlo4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4Stzj2_Rlo4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kurzgesagt – In a Nutshell",
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "You're a Dream of the Universe (According to Science)",
+          "description": "To get started planning a fulfilling career that does a lot of good, go to https://80000hours.org/kurzgesagt for your free career guide.\n\nSources & further reading:\nhttps://sites.google.com/view/sources-boltzmannbrain/startseite?authuser=2\n\nAbsolutely everything you think about yourself and the universe could be an illusion. As far as you know, you are real and exist in a universe that was born 14 billion years ago and that gave rise to galaxies, stars, the Earth, and finally you. Except, maybe not.\n\nOUR CHANNELS\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nGerman:        https://kgs.link/youtubeDE\nSpanish:        https://kgs.link/youtubeES\nFrench:          https://kgs.link/youtubeFR\nPortuguese:  https://kgs.link/youtubePT\nArabic:           https://kgs.link/youtubeAR\nHindi:             https://kgs.link/youtubeHI\nJapanese:     https://kgs.link/youtubeJA\nKorean:          https://kgs.link/youtubeKO\n\n\nHOW CAN YOU SUPPORT US?\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nThis is how we make our living and it would be a pleasure if you support us!\n\nGet Products designed with ❤ https://shop-us.kurzgesagt.org  \nJoin the Patreon Bird Army 🐧  https://kgs.link/patreon  \n\n\nDISCUSSIONS & SOCIAL MEDIA\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nTikTok:           https://kgs.link/tiktok\nReddit:            https://kgs.link/reddit\nInstagram:     https://kgs.link/instagram\nTwitter:           https://kgs.link/twitter\nFacebook:      https://kgs.link/facebook\nDiscord:          https://kgs.link/discord\nNewsletter:    https://kgs.link/newsletter\n\n\nOUR VOICE\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nThe Kurzgesagt voice is from \nSteve Taylor:  https://kgs.link/youtube-voice\n\n\nOUR MUSIC ♬♪\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n700+ minutes of Kurzgesagt Soundtracks by Epic Mountain:\n\nSpotify:            https://kgs.link/music-spotify\nSoundcloud:   https://kgs.link/music-soundcloud\nBandcamp:     https://kgs.link/music-bandcamp\nYoutube:          https://kgs.link/music-youtube\nFacebook:       https://kgs.link/music-facebook\n\nThe Soundtrack of this video:\nSoundcloud: https://bit.ly/44HSBtH \nBandcamp: https://bit.ly/3RkSOjh\n\nIf you want to help us caption this video, please send subtitles to subtitle@kurzgesagt.org\nYou can find info on what subtitle files work on YouTube here:\nhttps://support.google.com/youtube/answer/2734698?hl=en-GB&ref_topic=7296214\nThank you!\n\n🐦🐧🐤 PATREON BIRD ARMY 🐤🐧🐦\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nMany Thanks to our wonderful Patreons (from http://kgs.link/patreon) who support us every month and made this video possible:\nRebecca Lin, 金山俊　那須, Britnei Tweedy, Ryan, 슝 김, Tyler, Kathi, Ivan Milani, Rico Aarntzen, Nikita Khlebushkin, Christopher Kyle Horton, Valentin Binotto, Nico Riemann, Jesse Plung, Timothy Dooley, Yasheen Sewnarain, saif samer, Taki Reizen, Dragon force Secret art, Jasper Narvil, Alexander Rajaković, TheDoxy, Martijn Gerritsen, Bogdan, Manuel Berdin, Karen Epstein, Sinjid, Peyton, Adi Wabisabi, Infinitae Aetas, Ruben Iusim, febilly, Reyansh Baralay, Ecunna Versity, Stefan Mermans, Nicholas Fernald, Enrique Gonzalez, Jimmy W, Andrew Keenan Richardson, DeMar M., Jordan, chrisby, Niklas Sommer, Kathi, Jakob, Christina Woodbury, Scientist Keo, Dante Jerlich, NekuSoul, Frivack, Adrian, Robin Z., Zeal, MontanaMonarch, Matthew Watson, 민호 김, Mason Edmonds, Nils Hegenbart, Snail, Israel, Ariel Grucza, The Awkward Yeti, Don B, Andreas Andreas, Xeovis"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "G4hRWvTDJq0iDLedGMtDQAhnbtA",
+      "id": "X4gfyBUcJtE",
+      "snippet": {
+        "publishedAt": "2023-09-12T18:28:38Z",
+        "channelId": "UC7ITT3ooYWDYY_ehIUbt6eg",
+        "title": "Super11 Asia Cup 2023 | Super 4 | India vs Sri Lanka | Highlights",
+        "description": "Super11 Asia Cup 2023 | Super 4 | India vs Sri Lanka | Highlights",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X4gfyBUcJtE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X4gfyBUcJtE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X4gfyBUcJtE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X4gfyBUcJtE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X4gfyBUcJtE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Asian Cricket Council",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Super11 Asia Cup 2023 | Super 4 | India vs Sri Lanka | Highlights",
+          "description": "Super11 Asia Cup 2023 | Super 4 | India vs Sri Lanka | Highlights"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ACBC8o_TBefJZNOkzhbY9RW_WWc",
+      "id": "Ifzb4pwzRVM",
+      "snippet": {
+        "publishedAt": "2023-09-12T23:02:50Z",
+        "channelId": "UCaFGDBmGK_jw66u3av2Ysjw",
+        "title": "Hands-On With Apple's New iPhone 15 & iPhone 15 Pro Models!",
+        "description": "This video is sponsored by Rokform. Visit https://www.rokform.com/collections/iphone-15-cases?utm_source=MacRumors&utm_medium=display&utm_campaign=iP15 for more information!\n\nFollowing today's keynote event that saw Apple introducing the new iPhone 15, iPhone 15 Plus, iPhone 15 Pro, and iPhone 15 Pro Max, Apple allowed members of the media in attendance to spend some hands-on time with the new devices. MacRumors videographer Dan Barbera was at Apple Park for the event, so he's able to give us an early look at the iPhone 15 lineup, as well as his first thoughts.\n\nread more - https://www.macrumors.com/2023/09/12/iphone-15-hands-on/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ifzb4pwzRVM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ifzb4pwzRVM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ifzb4pwzRVM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ifzb4pwzRVM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ifzb4pwzRVM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MacRumors",
+        "tags": [
+          "apple",
+          "apple event",
+          "iPhone event",
+          "wonderlust event",
+          "iPhone 15 hands on",
+          "iPhone pro hands on",
+          "iPhone 15 pro max",
+          "iPhone 15",
+          "iPhone 15 pro",
+          "iPhone pro max hands on",
+          "iPhone 15 pro max review",
+          "iPhone 15 pro max features",
+          "iPhone 15 action button",
+          "iPhone 15 cameras",
+          "iPhone 15 pro hands on mkbhd",
+          "iPhone 15 pro action button",
+          "iPhone 15 pro max 5x optical",
+          "iPhone 15 pro telephoto",
+          "iPhone 15 pro max telephoto",
+          "apple event iphone"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Hands-On With Apple's New iPhone 15 & iPhone 15 Pro Models!",
+          "description": "This video is sponsored by Rokform. Visit https://www.rokform.com/collections/iphone-15-cases?utm_source=MacRumors&utm_medium=display&utm_campaign=iP15 for more information!\n\nFollowing today's keynote event that saw Apple introducing the new iPhone 15, iPhone 15 Plus, iPhone 15 Pro, and iPhone 15 Pro Max, Apple allowed members of the media in attendance to spend some hands-on time with the new devices. MacRumors videographer Dan Barbera was at Apple Park for the event, so he's able to give us an early look at the iPhone 15 lineup, as well as his first thoughts.\n\nread more - https://www.macrumors.com/2023/09/12/iphone-15-hands-on/"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vx_Ryy6Zhmi7OmQYIF_APLCkg5w",
+      "id": "D-ELCt0roa0",
+      "snippet": {
+        "publishedAt": "2023-09-12T23:04:57Z",
+        "channelId": "UCC0BPKJxAyxjQoRTYbpW0FQ",
+        "title": "Sounds from the Sideline | #DALvsNYG | Dallas Cowboys 2023",
+        "description": "Sights and sounds from the sideline of the Dallas Cowboys game vs the New York Giants, at MetLife Stadium. | @Lenovo \n\n#DallasCowboys #CowboysNation #NFL\n\nSubscribe to the Dallas Cowboys YouTube Channel: https://bit.ly/2L07gMO\nFor more Cowboys content: www.dallascowboys.com\nFollow us on Instagram: instagram.com/dallascowboys\nFollow us on TikTok: tiktok.com/@dallascowboys\nFollow us on Twitter: twitter.com/dallascowboys\nLike us on Facebook: www.facebook.com/DallasCowboys\nGet the App: apple.co/1GG1G36",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D-ELCt0roa0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D-ELCt0roa0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D-ELCt0roa0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D-ELCt0roa0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D-ELCt0roa0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dallas Cowboys",
+        "tags": [
+          "dallas cowboys",
+          "sounds from the sideline dallas cowboys",
+          "cowboys",
+          "dallas cowboys sounds from the sideline",
+          "micah parsons",
+          "cowboys sounds from the sideline",
+          "micah parsons highlights",
+          "dak presoctt",
+          "trevon diggs",
+          "cowboys mic'd up",
+          "ceedee lamb",
+          "dallas cowboys mic'd up",
+          "cowboys vs washington",
+          "sounds of the sideline cowboys",
+          "cowboys sound",
+          "cowboys sideline sounds",
+          "cowboys break",
+          "talkin cowboys",
+          "dallas cowboys highlights",
+          "hanging with the boys"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Sounds from the Sideline | #DALvsNYG | Dallas Cowboys 2023",
+          "description": "Sights and sounds from the sideline of the Dallas Cowboys game vs the New York Giants, at MetLife Stadium. | @Lenovo \n\n#DallasCowboys #CowboysNation #NFL\n\nSubscribe to the Dallas Cowboys YouTube Channel: https://bit.ly/2L07gMO\nFor more Cowboys content: www.dallascowboys.com\nFollow us on Instagram: instagram.com/dallascowboys\nFollow us on TikTok: tiktok.com/@dallascowboys\nFollow us on Twitter: twitter.com/dallascowboys\nLike us on Facebook: www.facebook.com/DallasCowboys\nGet the App: apple.co/1GG1G36"
+        }
+      }
+    }
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 25
+  }
+}
