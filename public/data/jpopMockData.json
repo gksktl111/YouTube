@@ -1,47 +1,13 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "SctUxEIo_OPWO9DP-Gg-MfsRNP0",
-  "nextPageToken": "CBkQAA",
+  "etag": "L6rWRLJ1pIZXqKnF4836_ItdkD4",
+  "nextPageToken": "CBwQAA",
   "regionCode": "KR",
   "pageInfo": {
     "totalResults": 1000000,
-    "resultsPerPage": 25
+    "resultsPerPage": 28
   },
   "items": [
-    {
-      "kind": "youtube#searchResult",
-      "etag": "75Nu6L10AxZz0eI7C8MEeIKUZNw",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "WT265VOcoDk"
-      },
-      "snippet": {
-        "publishedAt": "2023-08-21T13:14:06Z",
-        "channelId": "UCd6ZuNY9Jhyd9_e5UZZoLlg",
-        "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 여름이 끝날 무렵, 기억 조작하는 J-POP | Vaundy, 아이묭, Saucy dog, Radwimps, Official髭男dism 부터 추억의 j-pop까지🌻",
-        "description": "사진들은 모두 직접 찍은 것들입니다. *  SONY a5100, 맥북 기본 사진앱 보정 *채널 커뮤니티에서 그동안의 사진 다운받으실 수 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/WT265VOcoDk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/WT265VOcoDk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/WT265VOcoDk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "쎄종 Saison",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-08-21T13:14:06Z"
-      }
-    },
     {
       "kind": "youtube#searchResult",
       "etag": "fwBeail7Qlm5i89xsLujrQq92MM",
@@ -74,108 +40,6 @@
         "channelTitle": "때껄룩ᴛᴀᴋᴇ ᴀ ʟᴏᴏᴋ",
         "liveBroadcastContent": "none",
         "publishTime": "2023-04-07T12:14:24Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "80KAtYGJJhpx6z4iRAqjDF57l7c",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "T1Td8BYPgWA"
-      },
-      "snippet": {
-        "publishedAt": "2023-08-23T23:30:05Z",
-        "channelId": "UCrfA22cTa9rTLZ-Vfpegnmw",
-        "title": "【𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭】 나의 이번 여름을 담은, 청량한 여름 JPOP 플레이리스트",
-        "description": "플레이리스트 #playlist #노래모음 #jpop #여름 #여름플리 이번 여름에 제가 많이 들었던 노래들만 담았습니다. 솔직히 여름이랑 무슨 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/T1Td8BYPgWA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/T1Td8BYPgWA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/T1Td8BYPgWA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "유월 𝙹𝚞𝚗𝚎",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-08-23T23:30:05Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "W0s4ks4JUvhAIOYnIiduv2G0RYE",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "zoGgLuydzFk"
-      },
-      "snippet": {
-        "publishedAt": "2023-06-11T03:43:16Z",
-        "channelId": "UCjmieS6EOw4sLM0duosrRNw",
-        "title": "『2023最新版』 最近流行りの曲40選🌠新曲 2023 JPOPメドレー (最新曲 2023)🌠2023ヒット曲メドレー🌠 YOASOBI, Ado, 米津玄師, スピッツ, Kanaria, 優里",
-        "description": "日本の歌人気2023 #有名曲Jpopメドレー #jpopメドレー #2023年ヒット曲 #邦楽メドレー 『2023最新版』 最近流行りの曲40選   ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/zoGgLuydzFk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/zoGgLuydzFk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/zoGgLuydzFk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "90年代 R&B",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-06-11T03:43:16Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "eKaVFq22CHD_bOUn7Y-leWuPowM",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "hSvXrR_OTeU"
-      },
-      "snippet": {
-        "publishedAt": "2023-07-03T09:01:26Z",
-        "channelId": "UC4bbBTJC1_451X_KnW3P2Tg",
-        "title": "[playlist] 요즘 일본에서 HOT한 J-POP 플레이리스트",
-        "description": "영상 출처 | Photo by Kelvin #지녀 #플레이리스트 #playlist - 유튜브 시스템에 의해 자동으로 광고가 포함 될 수 있습니다. - 본 영상에 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/hSvXrR_OTeU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/hSvXrR_OTeU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/hSvXrR_OTeU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "지녀 𝐆𝐧𝐲𝐞𝐨",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-07-03T09:01:26Z"
       }
     },
     {
@@ -214,138 +78,70 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "OvlE-Z0DP8ummVGpvFN0a0K1FvY",
+      "etag": "80KAtYGJJhpx6z4iRAqjDF57l7c",
       "id": {
         "kind": "youtube#video",
-        "videoId": "78zUsOVP19c"
+        "videoId": "T1Td8BYPgWA"
       },
       "snippet": {
-        "publishedAt": "2023-06-13T09:00:05Z",
-        "channelId": "UCbjBNDYuM6Cwj3OLzjFl1tQ",
-        "title": "[playlist] 엄마 나 일본 갔다올게 플리✨ 최애의 JPOP",
-        "description": "제가 좋아하는 노래들 쌓일때마다 종종 만들어서 올릴게요:) These are my favorite songs these days. Enjoy follow me ...",
+        "publishedAt": "2023-08-23T23:30:05Z",
+        "channelId": "UCrfA22cTa9rTLZ-Vfpegnmw",
+        "title": "【𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭】 나의 이번 여름을 담은, 청량한 여름 JPOP 플레이리스트",
+        "description": "플레이리스트 #playlist #노래모음 #jpop #여름 #여름플리 이번 여름에 제가 많이 들었던 노래들만 담았습니다. 솔직히 여름이랑 무슨 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/78zUsOVP19c/default.jpg",
+            "url": "https://i.ytimg.com/vi/T1Td8BYPgWA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/78zUsOVP19c/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/T1Td8BYPgWA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/78zUsOVP19c/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/T1Td8BYPgWA/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "eian studio",
+        "channelTitle": "유월 𝙹𝚞𝚗𝚎",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-06-13T09:00:05Z"
+        "publishTime": "2023-08-23T23:30:05Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "aQHbQeqte7cQxnLtOcFAtH7C2HA",
+      "etag": "75Nu6L10AxZz0eI7C8MEeIKUZNw",
       "id": {
         "kind": "youtube#video",
-        "videoId": "zMe7FGvVv3M"
+        "videoId": "WT265VOcoDk"
       },
       "snippet": {
-        "publishedAt": "2023-04-19T09:00:39Z",
-        "channelId": "UCpzRFJHSmIa8y9rc5fnQAoQ",
-        "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 뒤늦게 제이팝에 빠진 사람 다 모여라 🍀 | J-POP, 아이묭, 요아소비, 요루시카, 녹황색사회, 유우리, 미세스그린애플, 요네즈 켄시, 이마세",
-        "description": "플레이리스트 #playlist #jpop.",
+        "publishedAt": "2023-08-21T13:14:06Z",
+        "channelId": "UCd6ZuNY9Jhyd9_e5UZZoLlg",
+        "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 여름이 끝날 무렵, 기억 조작하는 J-POP | Vaundy, 아이묭, Saucy dog, Radwimps, Official髭男dism 부터 추억의 j-pop까지🌻",
+        "description": "사진들은 모두 직접 찍은 것들입니다. *  SONY a5100, 맥북 기본 사진앱 보정 *채널 커뮤니티에서 그동안의 사진 다운받으실 수 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/zMe7FGvVv3M/default.jpg",
+            "url": "https://i.ytimg.com/vi/WT265VOcoDk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/zMe7FGvVv3M/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/WT265VOcoDk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/zMe7FGvVv3M/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/WT265VOcoDk/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "김응가 ᴋɪᴍ ᴘᴏᴏ",
+        "channelTitle": "쎄종 Saison",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-04-19T09:00:39Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "KD29Idu_MY-ezWxOoJezmGJEXGM",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "gvLm7N0foMw"
-      },
-      "snippet": {
-        "publishedAt": "2023-09-10T21:00:08Z",
-        "channelId": "UCR0OsZQRpmZM4bmLP9w9T5Q",
-        "title": "【広告なし】有名曲J-POPメドレー『2023最新版』// 日本最高の歌メドレー ✨J-POP 最新曲ランキング 邦楽 2022 ~ 2023 // 優里、 YOASOBI、あいみょん...ML.17",
-        "description": "【広告なし】有名曲J-POPメドレー『2023最新版』// 日本最高の歌メドレー ✨J-POP 最新曲ランキング 邦楽 2022 ~ 2023 //ML.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/gvLm7N0foMw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/gvLm7N0foMw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/gvLm7N0foMw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Japanese Pop Music ",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-09-10T21:00:08Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "j4dtPOEbykZCSm1uhmCNozhgvt4",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "GOV2INTyW54"
-      },
-      "snippet": {
-        "publishedAt": "2023-09-04T22:02:18Z",
-        "channelId": "UCpZ3oXLEVUR2_GEvbv0d6Bw",
-        "title": "有名曲jpop メドレー 2023 - 邦楽 ランキング 最新 2023🍀音楽 ランキング 最新 2022~2023🍁J-POP 最新曲ランキング 邦楽 2023🌽Yoasobi、あいみょん Y.23",
-        "description": "https://youtu.be/NEMQjJd4yc0 https://youtu.be/ZDmiq7gMpME https://youtu.be/-h85gVVO1Ws 有名曲jpop メドレー 2023 - 邦楽 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/GOV2INTyW54/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/GOV2INTyW54/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/GOV2INTyW54/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Japan Songs",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-09-04T22:02:18Z"
+        "publishTime": "2023-08-21T13:14:06Z"
       }
     },
     {
@@ -384,6 +180,176 @@
     },
     {
       "kind": "youtube#searchResult",
+      "etag": "W0s4ks4JUvhAIOYnIiduv2G0RYE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zoGgLuydzFk"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-11T03:43:16Z",
+        "channelId": "UCjmieS6EOw4sLM0duosrRNw",
+        "title": "『2023最新版』 最近流行りの曲40選🌠新曲 2023 JPOPメドレー (最新曲 2023)🌠2023ヒット曲メドレー🌠 YOASOBI, Ado, 米津玄師, スピッツ, Kanaria, 優里",
+        "description": "日本の歌人気2023 #有名曲Jpopメドレー #jpopメドレー #2023年ヒット曲 #邦楽メドレー 『2023最新版』 最近流行りの曲40選   ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zoGgLuydzFk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zoGgLuydzFk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zoGgLuydzFk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "90年代 R&B",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-11T03:43:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j4dtPOEbykZCSm1uhmCNozhgvt4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GOV2INTyW54"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-04T22:02:18Z",
+        "channelId": "UCpZ3oXLEVUR2_GEvbv0d6Bw",
+        "title": "有名曲jpop メドレー 2023 - 邦楽 ランキング 最新 2023🍀音楽 ランキング 最新 2022~2023🍁J-POP 最新曲ランキング 邦楽 2023🌽Yoasobi、あいみょん Y.23",
+        "description": "https://youtu.be/NEMQjJd4yc0 https://youtu.be/ZDmiq7gMpME https://youtu.be/-h85gVVO1Ws 有名曲jpop メドレー 2023 - 邦楽 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GOV2INTyW54/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GOV2INTyW54/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GOV2INTyW54/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Japan Songs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-04T22:02:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eKaVFq22CHD_bOUn7Y-leWuPowM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hSvXrR_OTeU"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-03T09:01:26Z",
+        "channelId": "UC4bbBTJC1_451X_KnW3P2Tg",
+        "title": "[playlist] 요즘 일본에서 HOT한 J-POP 플레이리스트",
+        "description": "영상 출처 | Photo by Kelvin #지녀 #플레이리스트 #playlist - 유튜브 시스템에 의해 자동으로 광고가 포함 될 수 있습니다. - 본 영상에 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hSvXrR_OTeU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hSvXrR_OTeU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hSvXrR_OTeU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "지녀 𝐆𝐧𝐲𝐞𝐨",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-03T09:01:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lRjMxt6NIfZoVYXUZ6p6T4ZJdqk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BImFEAvMsxE"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-15T03:59:09Z",
+        "channelId": "UCpZ3oXLEVUR2_GEvbv0d6Bw",
+        "title": "【広告なし】有名曲J-POPメドレー || 邦楽 ランキング 2023 🎶日本最高の歌メドレー || 優里、YOASOBI、LiSA、 あいみょん、米津玄師 、宇多田ヒカル、ヨルシカ",
+        "description": "https://youtu.be/NEMQjJd4yc0 https://youtu.be/ZDmiq7gMpME https://youtu.be/-h85gVVO1Ws 【広告なし】有名曲J-POPメドレー ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BImFEAvMsxE/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BImFEAvMsxE/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BImFEAvMsxE/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Japan Songs",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-09-15T03:59:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IZcZ0YPbR8lNv_b6Q488oOEzfWc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4JxpKWBGALI"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-12T10:30:02Z",
+        "channelId": "UCPShI6qMOUj4uoMqYULbIqg",
+        "title": "[𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓] 세상 사람들 다 알았으면 좋겠는 J-POP 모음(43곡 +1) | J-POP PLAYLIST",
+        "description": "진짜 띵곡들만 모아뒀습니다. 한 번씩만 들어보세요 ㄹㅇ. #jpop #playlist #노래모음 #hosinoko #yoasobi #hosinogen ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4JxpKWBGALI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4JxpKWBGALI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4JxpKWBGALI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이준명",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-12T10:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
       "etag": "yuCQ853c9D0cJ_CwYLtP8unjO0Q",
       "id": {
         "kind": "youtube#video",
@@ -418,6 +384,40 @@
     },
     {
       "kind": "youtube#searchResult",
+      "etag": "aQHbQeqte7cQxnLtOcFAtH7C2HA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zMe7FGvVv3M"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-19T09:00:39Z",
+        "channelId": "UCpzRFJHSmIa8y9rc5fnQAoQ",
+        "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 뒤늦게 제이팝에 빠진 사람 다 모여라 🍀 | J-POP, 아이묭, 요아소비, 요루시카, 녹황색사회, 유우리, 미세스그린애플, 요네즈 켄시, 이마세",
+        "description": "플레이리스트 #playlist #jpop.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zMe7FGvVv3M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zMe7FGvVv3M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zMe7FGvVv3M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "김응가 ᴋɪᴍ ᴘᴏᴏ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-19T09:00:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
       "etag": "g_X-JRmqTeMgbHpO4_6SR1DMLYE",
       "id": {
         "kind": "youtube#video",
@@ -448,6 +448,414 @@
         "channelTitle": "Mean Playlist_민뮤직",
         "liveBroadcastContent": "none",
         "publishTime": "2023-02-24T08:53:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OvlE-Z0DP8ummVGpvFN0a0K1FvY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "78zUsOVP19c"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-13T09:00:05Z",
+        "channelId": "UCbjBNDYuM6Cwj3OLzjFl1tQ",
+        "title": "[playlist] 엄마 나 일본 갔다올게 플리✨ 최애의 JPOP",
+        "description": "제가 좋아하는 노래들 쌓일때마다 종종 만들어서 올릴게요:) These are my favorite songs these days. Enjoy follow me ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/78zUsOVP19c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/78zUsOVP19c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/78zUsOVP19c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "eian studio",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-13T09:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DHhJaC4iBd7yYPaSsN_MvvLcy1s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LvW1d2zQpCc"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-06T22:00:14Z",
+        "channelId": "UCC8Zkzy19awMZ0DseEM4o6g",
+        "title": "秋の歌 j pop ♪ღ♫ 秋に聴きたい曲 秋うた オータムソング 定番 メドレー ♪ღ♫ 秋の歌 メドレー 2023",
+        "description": "秋の歌 j pop ♪ღ♫ 秋に聴きたい曲 秋うた オータムソング 定番 メドレー ♪ღ♫ 秋の歌 メドレー 2023 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LvW1d2zQpCc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LvW1d2zQpCc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LvW1d2zQpCc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Top Jpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-06T22:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cDdEonrcH0IUZZwv_XpJvyHh5os",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P8s2MhDOlj8"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-10T08:37:00Z",
+        "channelId": "UC3LTWdIZt0jD_9XQMKsnQVQ",
+        "title": "[Playlist] 청춘영화 감성의 청량하고 몽글몽글한 J-POP💙 I 히게단, 유우리, 아이묭, 요루시카, 바운디",
+        "description": "정말 오랜만에 여행을 다녀왔어요! (몇년만인지,,ㅠㅠㅠㅠㅠ) 일본 첫 도쿄여행으로 슬램덩크 촬영지로 유명한 가마쿠라라는 곳도 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P8s2MhDOlj8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P8s2MhDOlj8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P8s2MhDOlj8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "원플리 Oneplaylist",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-10T08:37:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Qqu4sHkSN3HoIUT_daguJI2GVA0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KPfUVDBiNAk"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-07T22:00:10Z",
+        "channelId": "UCC8Zkzy19awMZ0DseEM4o6g",
+        "title": "有名曲Jpop メドレー 2023️️🎶J-POP 最新曲ランキング 邦楽 2023 ️️️🎶最近流行りの曲50選️️🎶YOASOBI, Ado, Uru, 米津玄師, 優里, Aimer",
+        "description": "有名曲Jpop メドレー 2023️️  J-POP 最新曲ランキング 邦楽 2023 ️️️  最近流行りの曲50選️️  YOASOBI, Ado, Uru, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KPfUVDBiNAk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KPfUVDBiNAk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KPfUVDBiNAk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Top Jpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-07T22:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SxgDzUN6lTggN67SY9X9NkPtGM8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZlAtkh2hnQc"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-28T11:00:31Z",
+        "channelId": "UCFLw3336eDV4CyuxOFuC7Rw",
+        "title": "【Playlist】일본인인 제가 추천하는 J-POP",
+        "description": "jpop #일본노래.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZlAtkh2hnQc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZlAtkh2hnQc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZlAtkh2hnQc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "nemui",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-28T11:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Y9esug2SVkXBw-Mp1Y3irWrBw1w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vDKTkYz_cy4"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-24T14:00:11Z",
+        "channelId": "UCfi-R93Pl7qlIBH3b8PcUbw",
+        "title": "[𝗣𝗹𝗮𝘆𝗹𝗶𝘀𝘁] 비 내리는 밤의 도쿄 선술집 pm 11:30 | J-POP",
+        "description": "해당영상으로 수익을 창출하지 않습니다. 문제시 삭제. 본 영상에 사용된 이미지와 음악의 저작권은 원저작권자에게 있습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vDKTkYz_cy4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vDKTkYz_cy4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vDKTkYz_cy4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "비쁠",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-24T14:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BHwCv-JosCBZTWJ5Ekz1Q47q148",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZA5OpE2PeAg"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-17T10:39:21Z",
+        "channelId": "UCxGyH7vzYkZwFseTUa3yZpQ",
+        "title": "도입부터 취향저격! 호불호 안갈리는 J-POP 모음 | J-POP PLAYLIST",
+        "description": "영상이 마음에 드셨다면 [ 구독 ] [ 좋아요 ] [ 알림 ] - 수익 창출을 하지 않는 채널입니다. - 영상 속 광고는 유튜브 저작권 규정상 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZA5OpE2PeAg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZA5OpE2PeAg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZA5OpE2PeAg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "찐막 JJINMAK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-17T10:39:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PHhsxTdp2GcxxmEzCrKYjVV-L5I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yAP7CJ-NWgY"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-15T14:43:19Z",
+        "channelId": "UCrfA22cTa9rTLZ-Vfpegnmw",
+        "title": "【𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭】 일본 노래 특유의 청춘과 여름 냄새ㅣ청량한 여름 JPOP 플레이리스트",
+        "description": "플레이리스트 #playlist #노래모음 #jpop #여름 #여름플리 지금 계절의 뜨거움처럼 더욱 뜨겁게 마음먹기로 했다 아무것도 아니야가 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yAP7CJ-NWgY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yAP7CJ-NWgY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yAP7CJ-NWgY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "유월 𝙹𝚞𝚗𝚎",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-15T14:43:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BpR5OQSTF6GHqovYBgAbd_aq7wU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KIdqRh-PMsY"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-01T22:50:30Z",
+        "channelId": "UC6HvIU9GWnCJLcuIoavpGKQ",
+        "title": "[J-POP playlist] on my way work and home these days",
+        "description": "All rights belong to each copyright holder. Spotify playlist ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KIdqRh-PMsY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KIdqRh-PMsY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KIdqRh-PMsY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Serial_Troller",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-01T22:50:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8qzXAG4KkvRvECeqmYbyYRYIins",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NOX4VG6-Qk8"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-25T22:00:12Z",
+        "channelId": "UCX5IdTZCqMleMbqDcQnps1g",
+        "title": "【広告なし】有名曲Jpop メドレー 2023 🎶 J-POP 最新曲ランキング 邦楽 2023 🍀 最も人気のある若者の音楽 Vol.2",
+        "description": "チャンネ登録よろしくお願い致します。 【広告なし】有名曲Jpop メドレー 2023 J-POP 最新曲ランキング 邦楽 2023 最も ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NOX4VG6-Qk8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NOX4VG6-Qk8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NOX4VG6-Qk8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Official髭男dism FC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-25T22:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1ezFS-T1gB6FDiQ97zNwzuPhp_M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ra7HZw3Gzis"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-14T21:00:11Z",
+        "channelId": "UCpZ3oXLEVUR2_GEvbv0d6Bw",
+        "title": "有名曲jpop メドレー 2023 - 音楽 ランキング 最新 2023🍀🌿邦楽 ランキング 最新 2023 - 日本の歌 人気 2023🍁J-POP 最新曲ランキング 邦楽 2023 TM.06",
+        "description": "japansongs #jpopメドレー #歌メドレー #邦楽メドレー #2023年ヒット曲 https://youtu.be/NEMQjJd4yc0 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ra7HZw3Gzis/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ra7HZw3Gzis/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ra7HZw3Gzis/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Japan Songs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-14T21:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YijH8VdvusMpxW-uf3-MTwdaadI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QOH-SeaGmBM"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-28T12:03:45Z",
+        "channelId": "UC_5eDewGMz501UD2louwVxg",
+        "title": "𝙋𝙡𝙖𝙮𝙡𝙞𝙨𝙩 : 눅눅한 여름밤, 도쿄의 한 공원에서 [ 𝙅-𝙋𝙊𝙋 / 𝙅-𝙍𝙊𝘾𝙆 ]",
+        "description": "직접 라이브를 다니며 알게 된 아티스트부터 알고리즘으로 흘러가 알게 된 여러 아티스트들까지 여러 일본 노래들을 소개하고 싶어서 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QOH-SeaGmBM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QOH-SeaGmBM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QOH-SeaGmBM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이 노래를 왜 몰라?",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-28T12:03:45Z"
       }
     },
     {
@@ -520,342 +928,36 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "cDdEonrcH0IUZZwv_XpJvyHh5os",
+      "etag": "Tj8KoWpDvOSvPo5XwGzfd3i_szM",
       "id": {
         "kind": "youtube#video",
-        "videoId": "P8s2MhDOlj8"
+        "videoId": "czDgZOpo9HI"
       },
       "snippet": {
-        "publishedAt": "2023-04-10T08:37:00Z",
-        "channelId": "UC3LTWdIZt0jD_9XQMKsnQVQ",
-        "title": "[Playlist] 청춘영화 감성의 청량하고 몽글몽글한 J-POP💙 I 히게단, 유우리, 아이묭, 요루시카, 바운디",
-        "description": "정말 오랜만에 여행을 다녀왔어요! (몇년만인지,,ㅠㅠㅠㅠㅠ) 일본 첫 도쿄여행으로 슬램덩크 촬영지로 유명한 가마쿠라라는 곳도 ...",
+        "publishedAt": "2023-09-05T09:48:31Z",
+        "channelId": "UCQLfdihF1WwbuVcgJq6x6Iw",
+        "title": "또다시 당신의 플레이리스트를 두드릴 JPOP 라이브 모음집 | 베스트 JPOP 라이브 월드컵",
+        "description": "룩삼 #yonezukenshi #fujiikaze #vaundy #oneokrock LookSam 룩삼의 유튜브채널입니다! 재밌게 보셨다면 좋아요와 구독을 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/P8s2MhDOlj8/default.jpg",
+            "url": "https://i.ytimg.com/vi/czDgZOpo9HI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/P8s2MhDOlj8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/czDgZOpo9HI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/P8s2MhDOlj8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/czDgZOpo9HI/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "원플리 Oneplaylist",
+        "channelTitle": "LookSam",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-04-10T08:37:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "l913JIjXc017C4RLOiCeDIEfIPQ",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "HuaYTrlrNOE"
-      },
-      "snippet": {
-        "publishedAt": "2023-09-07T08:00:09Z",
-        "channelId": "UCjMwUIoxOoCEVCvCi9QTW2g",
-        "title": "[J-POP] 일본 노래 조회수 순위 TOP 100 (2023.9월)",
-        "description": "재생목록 링크: https://youtube.com/playlist?list=PLtbG4NJHV0Z9suvpfWnr4Km2EoVRR0wH9&si=FdoXXzz3FcKePxm_ (재생목록 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/HuaYTrlrNOE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/HuaYTrlrNOE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/HuaYTrlrNOE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "노래한모금모금",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-09-07T08:00:09Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "IZcZ0YPbR8lNv_b6Q488oOEzfWc",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "4JxpKWBGALI"
-      },
-      "snippet": {
-        "publishedAt": "2023-08-12T10:30:02Z",
-        "channelId": "UCPShI6qMOUj4uoMqYULbIqg",
-        "title": "[𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓] 세상 사람들 다 알았으면 좋겠는 J-POP 모음(43곡 +1) | J-POP PLAYLIST",
-        "description": "진짜 띵곡들만 모아뒀습니다. 한 번씩만 들어보세요 ㄹㅇ. #jpop #playlist #노래모음 #hosinoko #yoasobi #hosinogen ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/4JxpKWBGALI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/4JxpKWBGALI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/4JxpKWBGALI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "이준명",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-08-12T10:30:02Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "hLNQ9f8_K70c6mi2CIJyoxxfchU",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "pctCkaDjglc"
-      },
-      "snippet": {
-        "publishedAt": "2023-06-18T04:50:26Z",
-        "channelId": "UC4bbBTJC1_451X_KnW3P2Tg",
-        "title": "[playlist] 어느 여름날, 청량한 감성의 J-POP 플레이리스트",
-        "description": "영상 출처 | 영화 '날씨의 아이' (天気の子, 2019) #지녀 #플레이리스트 #playlist - 유튜브 시스템에 의해 자동으로 광고가 포함 될 수 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/pctCkaDjglc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/pctCkaDjglc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/pctCkaDjglc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "지녀 𝐆𝐧𝐲𝐞𝐨",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-06-18T04:50:26Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "hlSFfH8OQV23e2A2hu2Zoq_YNyI",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "-YvZVtVD2GA"
-      },
-      "snippet": {
-        "publishedAt": "2023-06-23T21:00:00Z",
-        "channelId": "UCkAsHE_xNsARJtBujrPlyEw",
-        "title": "【広告なし】有名曲J POPメドレー『2023最新版』日本最高の歌メドレー 🌸J POP 最新曲ランキング 邦楽 2022   2023    優里、ヨルシカ、米津玄師、Aimer",
-        "description": "【広告なし】有名曲J POPメドレー『2023最新版』日本最高の歌メドレー J POP 最新曲ランキング 邦楽 2022 2023 優里、 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/-YvZVtVD2GA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/-YvZVtVD2GA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/-YvZVtVD2GA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Jpop Store",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-06-23T21:00:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "8qzXAG4KkvRvECeqmYbyYRYIins",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "NOX4VG6-Qk8"
-      },
-      "snippet": {
-        "publishedAt": "2022-12-25T22:00:12Z",
-        "channelId": "UCX5IdTZCqMleMbqDcQnps1g",
-        "title": "【広告なし】有名曲Jpop メドレー 2023 🎶 J-POP 最新曲ランキング 邦楽 2023 🍀 最も人気のある若者の音楽 Vol.2",
-        "description": "チャンネ登録よろしくお願い致します。 【広告なし】有名曲Jpop メドレー 2023 J-POP 最新曲ランキング 邦楽 2023 最も ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/NOX4VG6-Qk8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/NOX4VG6-Qk8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/NOX4VG6-Qk8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Official髭男dism FC",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-12-25T22:00:12Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "t4LtvB-ag-8rhJGVdnK5tYbAL1c",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "7i_uNxuAauI"
-      },
-      "snippet": {
-        "publishedAt": "2023-09-13T02:32:44Z",
-        "channelId": "UCpZ3oXLEVUR2_GEvbv0d6Bw",
-        "title": "有名曲jpop メドレー 2023 - 音楽 ランキング 最新 2023🍀🌿邦楽 ランキング 最新 2023 - 日本の歌 人気 2023🍁J-POP 最新曲ランキング 邦楽 2023 TM.03",
-        "description": "jpopメドレー #歌メドレー #邦楽メドレー #2023年ヒット曲 https://youtu.be/NEMQjJd4yc0 https://youtu.be/ZDmiq7gMpME ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/7i_uNxuAauI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/7i_uNxuAauI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/7i_uNxuAauI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Japan Songs",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-09-13T02:32:44Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "PHhsxTdp2GcxxmEzCrKYjVV-L5I",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "yAP7CJ-NWgY"
-      },
-      "snippet": {
-        "publishedAt": "2023-07-15T14:43:19Z",
-        "channelId": "UCrfA22cTa9rTLZ-Vfpegnmw",
-        "title": "【𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭】 일본 노래 특유의 청춘과 여름 냄새ㅣ청량한 여름 JPOP 플레이리스트",
-        "description": "플레이리스트 #playlist #노래모음 #jpop #여름 #여름플리 지금 계절의 뜨거움처럼 더욱 뜨겁게 마음먹기로 했다 아무것도 아니야가 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/yAP7CJ-NWgY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/yAP7CJ-NWgY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/yAP7CJ-NWgY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "유월 𝙹𝚞𝚗𝚎",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-07-15T14:43:19Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "7vknPw22VwpaxMEN535EyMerKm4",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "eF2Z3s_JyfU"
-      },
-      "snippet": {
-        "publishedAt": "2023-06-05T18:16:08Z",
-        "channelId": "UCR1QO63R_dyi4E6I1fYcNYQ",
-        "title": "내가 들으려고 만든 🔥 요즘 핫한 제이팝 J-POP 모음 🔥",
-        "description": "내가 들으려고 만든 jpop ! 요즘 제 노동요입니다 :) 제이팝 사랑한다ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ -영상을 통한 수익창출을 하지 않습니다 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/eF2Z3s_JyfU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/eF2Z3s_JyfU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/eF2Z3s_JyfU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "문플링 ᴍᴏᴏɴ ᴘʟᴀʏʟɪꜱᴛ",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-06-05T18:16:08Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "SxgDzUN6lTggN67SY9X9NkPtGM8",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "ZlAtkh2hnQc"
-      },
-      "snippet": {
-        "publishedAt": "2023-05-28T11:00:31Z",
-        "channelId": "UCFLw3336eDV4CyuxOFuC7Rw",
-        "title": "【Playlist】일본인인 제가 추천하는 J-POP",
-        "description": "jpop #일본노래.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ZlAtkh2hnQc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ZlAtkh2hnQc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZlAtkh2hnQc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "nemui",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-05-28T11:00:31Z"
+        "publishTime": "2023-09-05T09:48:31Z"
       }
     }
   ]

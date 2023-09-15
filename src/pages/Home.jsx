@@ -1,11 +1,12 @@
 import React from 'react';
+import CardList from '../Components/CardList/CardList';
 import Header from '../Components/Header/Header';
 
 export default function Home() {
   return (
     <>
       <Header />
-      <div>영상 카드 asdd</div>
+      <CardList></CardList>
     </>
   );
 }

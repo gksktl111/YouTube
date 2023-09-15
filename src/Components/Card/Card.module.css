@@ -1,0 +1,30 @@
+.container {
+  width: 21rem;
+  height: 17rem;
+
+  cursor: pointer;
+}
+
+.img {
+  width: 100%;
+
+  border-radius: 20px;
+}
+
+.videoDescription {
+  font-size: 1rem;
+}
+
+.videoTitle {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.videoSubTitle {
+  display: flex;
+  flex-direction: column;
+  margin: 5px 0;
+}
