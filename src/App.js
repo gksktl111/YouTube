@@ -4,16 +4,19 @@ import Home from './pages/Home';
 import Detail from './pages/Detail';
 import NotFound from './pages/NotFound';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
+import Root from './pages/Root';
+import Video from './pages/Video';
 
 const router = createBrowserRouter([
   {
     path: '/',
-    element: <Home />,
+    element: <Root />,
     errorElement: <NotFound />,
-  },
-  {
-    path: '/detail',
-    element: <Detail />,
+    children: [
+      { index: true, element: <Home /> },
+      { path: 'video', element: <Video /> },
+      { path: 'detail', element: <Detail /> },
+    ],
   },
 ]);
 

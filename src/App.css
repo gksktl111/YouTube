@@ -1,0 +1,12 @@
+::-webkit-scrollbar {
+  width: 20px; /* 세로축 스크롤바 폭 너비 */
+  height: 12px; /* 가로축 스크롤바 폭 너비 */
+}
+
+/* 스크롤바 막대 */
+::-webkit-scrollbar-thumb {
+  background-color: #8d867f; /* 스크롤바 막대 색상 */
+  border-radius: 12px 12px 12px 12px;
+
+  border: 6px solid #ffffff; /* 스크롤을 적용할 영역 색깔과 border 색상을 똑같이 맞춘다 */
+}

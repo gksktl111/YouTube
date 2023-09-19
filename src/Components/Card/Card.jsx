@@ -1,8 +1,9 @@
 import React from 'react';
 import styles from './Card.module.css';
+import { useNavigate } from 'react-router-dom';
 
 export default function Card({
-  cardkey,
+  id,
   title,
   thumbnails,
   channelTitle,
@@ -12,11 +13,15 @@ export default function Card({
 
   // 사용 예시
   const publishedAt = new Date(publishTime);
-  const formattedTimeAgo = formatTimeAgo(publishedAt);
-  console.log(formattedTimeAgo); // 출력 예: "25일 전"
+
+  const navigate = useNavigate();
+
+  const navigateToDetail = () => {
+    navigate('/detail');
+  };
 
   return (
-    <section className={styles.container} key={cardkey}>
+    <section className={styles.container} key={id} onClick={navigateToDetail}>
       <img src={thumbnails} alt='thumbnails' className={styles.img} />
       <div className={styles.videoDescription}>
         <span className={styles.videoTitle}>{title}</span>
