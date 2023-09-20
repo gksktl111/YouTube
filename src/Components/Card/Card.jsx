@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import styles from './Card.module.css';
 import { useNavigate } from 'react-router-dom';
 
@@ -9,15 +9,18 @@ export default function Card({
   channelTitle,
   publishTime,
 }) {
-  // 사용 예시
-
-  // 사용 예시
   const publishedAt = new Date(publishTime);
 
   const navigate = useNavigate();
 
+  const videoId = useState(id);
+
+  {
+    console.log(videoId[0]);
+  }
+
   const navigateToDetail = () => {
-    navigate('/detail');
+    navigate(`/detail?video=${videoId[0]}`);
   };
 
   return (
