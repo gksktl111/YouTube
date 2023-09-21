@@ -34,6 +34,9 @@ export default function Detail() {
         allowFullScreen // 변경된 부분
       ></iframe>
       <span className={style.video__title}>{items.items[0].snippet.title}</span>
+      <div className={style.video__description}>
+        {items.items[0].snippet.description}
+      </div>
     </div>
   );
 }

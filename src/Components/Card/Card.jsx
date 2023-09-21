@@ -15,10 +15,6 @@ export default function Card({
 
   const videoId = useState(id);
 
-  {
-    console.log(videoId[0]);
-  }
-
   const navigateToDetail = () => {
     navigate(`/detail?video=${videoId[0]}`);
   };

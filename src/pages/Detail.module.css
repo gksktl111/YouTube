@@ -16,3 +16,14 @@
 
   margin-top: 20px;
 }
+
+.video__description {
+  background-color: lightgray;
+
+  width: 69vw;
+
+  border-radius: 20px;
+
+  margin-top: 20px;
+  padding: 10px;
+}
