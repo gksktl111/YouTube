@@ -1,34 +1,23 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import Card from '../Card/Card';
 import Loding from '../Loding/Loding';
 import styles from './CardList.module.css';
-import { useQuery } from '@tanstack/react-query';
+import { useYoutubeVideos } from '../../hooks/useYoutubeVideos';
 
 export default function CardList({ newVideo }) {
-  const [videoName, setVideoName] = useState('jpopMockData');
-  const Key = process.env.REACT_APP_YOUTUBE_API;
+  const [videoName, setVideoName] = useState('인기영상');
 
-  if (newVideo) {
-    console.log('asdad');
-    setVideoName(newVideo);
-  }
+  useEffect(() => {
+    if (newVideo) {
+      setVideoName(newVideo);
+    }
+  }, [newVideo]);
 
-  const {
-    isLoading,
-    error,
-    data: items,
-  } = useQuery(['items'], async () => {
-    console.log('Loading cards');
-    return fetch(`data/${videoName}.json`).then((res) => res.json());
-
-    // return fetch(
-    //   `https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=28&q=케이&key=${Key}&type=video`
-    // ).then((res) => res.json());
-  });
+  const { isLoading, error, data: items } = useYoutubeVideos(videoName);
 
   if (isLoading) return <Loding />;
 
-  if (error) return <p>{error}</p>;
+  if (error) return <p>{error.message}</p>;
 
   const itemsArray = Object.values(items); // items 객체의 값들을 추출하여 새로운 배열 생성
 

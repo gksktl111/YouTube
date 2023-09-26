@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  flex-direction: column;
+
+  padding: 20px;
+}
+
+.video {
+  width: 70vw;
+  height: 40vw;
+}
+
+.video__title {
+  font-size: 1.2rem;
+  font-weight: bold;
+
+  margin-top: 20px;
+}
+
+.video__description {
+  background-color: lightgray;
+
+  width: 69vw;
+
+  border-radius: 20px;
+
+  margin-top: 20px;
+  padding: 10px;
+}

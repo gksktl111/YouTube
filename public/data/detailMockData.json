@@ -1,0 +1,89 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "cnlUQlfOfM-CkdnRbSs-vD0Dk0o",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "sCTI7n5yD0aRIMnqYE1EzbADGv8",
+      "id": "yOlBsus_Hno",
+      "snippet": {
+        "publishedAt": "2023-04-07T12:14:24Z",
+        "channelId": "UCVut4hqvrjQC4qDE3oc5qig",
+        "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 제이팝 붐은 온다! 한번쯤은 들어본 유명한 J-POP 부터 숨은 명곡까지 | 요루시카, YOASOBI, 아이묭",
+        "description": "#플레이리스트 #playlist #jpop \n#제이팝 #아이묭 #요루시카 #YOASOBI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yOlBsus_Hno/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yOlBsus_Hno/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yOlBsus_Hno/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yOlBsus_Hno/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yOlBsus_Hno/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "때껄룩ᴛᴀᴋᴇ ᴀ ʟᴏᴏᴋ",
+        "tags": [
+          "플레이리스트",
+          "playlist",
+          "제이팝",
+          "JPOP",
+          "제아팝플리",
+          "릴스일본",
+          "일본노래",
+          "제이팝모음",
+          "JPOP추천",
+          "아이묭",
+          "제이팝플리",
+          "일본플리",
+          "음악추천"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 제이팝 붐은 온다! 한번쯤은 들어본 유명한 J-POP 부터 숨은 명곡까지 | 요루시카, YOASOBI, 아이묭",
+          "description": "#플레이리스트 #playlist #jpop \n#제이팝 #아이묭 #요루시카 #YOASOBI"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2H4M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+          "blocked": ["BY", "RU"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4339519",
+        "likeCount": "53937",
+        "favoriteCount": "0",
+        "commentCount": "1667"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}
